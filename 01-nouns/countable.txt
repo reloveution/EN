@@ -1,15 +1,32 @@
 COUNTABLE NOUNS (Исчисляемые существительные)
 
 Countable nouns are nouns that refer to objects or concepts that can be counted.
-    – a potato
-    – a job
-    – a chair, a book, a person
+
+С артиклем _a_ (перед согласными):
+    – a potáto, a jób, a cháir, a bóok, a pérson
+    – a dóg, a càr, a hòuse, a téacher, a tàble
+    – a cómputer, a phóne, a cíty, a fríend
+
+С артиклем _an_ (перед гласными):
+    – an ápple, an órаnge, an égg, an idéa, an úmbrella
+    – an élephant, an áctor, an ócean, an énemy
+    – an hònest pérson, an hòur (h немая!)
+
+С артиклем _the_ (конкретный предмет):
+    – the bóok on the táble, the càr I bòught
+    – the téacher whò hélped me, the cháir by the wíndow
+    – the ápple you gàve me, the hòuse òn the córner
+
+Во множественном числе:
+    – two potátoes, three jóbs, fòur cháirs
+    – mány bóoks, several péople, a féw dógs
+    – the bóoks on the táble, the cárs in the stréet
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ПРИЗНАКИ:
 Объект имеет четкие границы как отдельный предмет.
-Можно посчитать отдельными единицами: one chair, two chairs, three chairs.
+Можно посчитать отдельными единицами: one cháir, two cháirs, three cháirs.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -21,71 +38,204 @@ Countable nouns are nouns that refer to objects or concepts that can be counted.
 АРТИКЛИ В ЕДИНСТВЕННОМ ЧИСЛЕ:
 
 Почти всегда используется артикль!
+⚠️ ВАЖНО! Исчисляемое существительное в единственном числе НЕ МОЖЕТ стоять без артикля или определителя!
+    ❌ I sée càt. (неправильно)
+    ✅ I sée a càt. / I sée the càt. / I sée my càt.
+    ❌ She ìs téacher. (неправильно)
+    ✅ She ìs a téacher.
 
 ✅ Indefinite article — _a/an_
     – Используем _an_ если после артикля гласная
-    – She has got a car.
-    – I heard a wonderful song last night.
+    – She has gót a càr.
+    – I hèard a wónderful sóng last níght.
+    – He ìs a dóctor.
+    – I néed a pén.
+    – That's an ápple.
+    – She ìs an éngineer.
+    – It wàs an hònest mìstake. (h немая)
+    – I'll be there in an hòur. (h немая)
 
 ✅ Definite article — _the_
-    – Если после _the_ гласная, произносим как "thi" (apple, hour)
-    – Can you open the window, please?
+    – Если после _the_ гласная, произносим как "thi" (ápple, hòur)
+    – Can you ópen the wíndow, please?
+    – The bóok on the táble ìs míne.
+    – I lòve the càr you bòught.
+    – The sùn ìs shíning todày.
+    – Close the dòor, please.
+    – The ápple ìs réd. (произносим "thi")
+    – The hòur hàs cóme. (произносим "thi")
 
-✅ Possessive притяжательные — her, his, my
-    – This is her daughter.
+✅ Possessive притяжательные — hèr, hìs, mỳ, your, òur, their, ìts
+    – This ìs hèr dáughter.
+    – Thàt's mỳ càr.
+    – Hìs bóok ìs on the táble.
+    – Yòur idéa ìs gréat.
+    – Their hòuse ìs bìg.
+    – Òur dóg ìs friéndly.
 
 ✅ Указательные местоимения
-    – This (этот, рядом), That (тот, далеко)
-    – That man is staring at me.
+    – Thìs (этот, рядом), Thàt (тот, далеко)
+    – Thàt màn is stáring at me.
+    – Thìs bóok ìs intéresting.
+    – Thàt càr ìs expénsive.
+    – Thìs chàir ìs cómfortable.
+    – Thàt idéa ìs brillíant.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ВО МНОЖЕСТВЕННОМ ЧИСЛЕ:
 
-✅ Нулевой артикль
+✅ Нулевой артикль — отсутствие артикля перед существительным (часто):
+    – Càts àre wónderful péts.
+    – Bóoks àre expénsive.
+    – Chíldren lòve tòys.
+    – Péople néed wáter to survíve.
+    – Dógs àre lóyal anímals.
+
 ✅ Definite article _the_
-✅ Quantifiers: many, a lot of, a few, few
+    – The bóoks on the táble àre míne.
+    – The chíldren àre pláying in the pàrk.
+    – The cárs in the stréet àre néw.
+    – The ápples in thìs bàsket àre frésh.
+    – The stúdents àre stúdying for the exàm.
+
+✅ Quantifiers: mány, a lót of, a féw, féw
 
 ✅ Some/many — в утверждениях
-    – There are some books.
-    – There are some birds in the tree.
-    – We need to buy some balloons for the party.
-    – We didn't take many pictures.
-    – I've (have) seen a lot of great films recently.
-    – I have a few close friends.
-    – Few people know about this.
+    – There àre sóme bóoks.
+    – There àre sóme bìrds in the trée.
+    – We néed to bùy sóme ballóons for the párty.
+    – I've (háve) séen a lót of gréat fílms récently.
+    – She hàs sóme friénds in Lóndon.
+
+✅ Many — в вопросах и отрицаниях
+    – We dídn't táke mány píctures.
+    – Do you háve mány friénds?
+    – There àren't mány péople hère.
+    – I dòn't knòw mány wòrds in Spánish.
+    – Àre there mány óptions?
+
+✅ A few — несколько (положительное)
+    – I háve a féw clòse friénds.
+    – There àre a féw cháirs in the róom.
+    – We néed a féw mòre mínutes.
+    – She máde a féw mìstakes.
+    – I bòught a féw ápples.
+
+✅ Few — мало (отрицательное)
+    – Féw péople knów abòut thìs.
+    – There àre féw góod réstaurants hère.
+    – He hàs féw réal friénds.
+    – Féw stúdents pàssed the tést.
+    – Very féw péople spéak thìs lánguage.
 
 ✅ Any — в вопросах
-    – Are there any books?
-    – Do you have any questions?
-    – You can buy any dress you like. (any в смысле "любой")
+    – Àre there ány bóoks?
+    – Do you háve ány quéstions?
+    – Àre there ány ápples léft?
+    – Do you knòw ány góod réstaurants?
+    – Càn you gìve me ány advíce?
+
+✅ Any — в значении "любой"
+    – You can bùy ány dréss you líke.
+    – Táke ány chàir you wànt.
+    – You can chóose ány cólor.
+    – Àsk me ány quéstions.
+    – Cóme ány tíme you líke.
 
 ✅ Not any / No — в отрицаниях
-    – There are no books.
-    – There are not any books.
-    – I have not bought any apples.
+    – There àre nò bóoks.
+    – There àre nót ány bóoks.
+    – I háve nót bòught ány ápples.
+    – We háve nò mòre cháirs.
+    – There àren't ány pénсils on the táble.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
+ПРАВИЛА ОБРАЗОВАНИЯ МНОЖЕСТВЕННОГО ЧИСЛА:
+
+✅ Основное правило: добавить -s
+    – bóok → bóoks, càt → càts
+
+✅ Добавляется -es, если слово заканчивается на -s, -ss, -sh, -ch, -x, -z, -o
+        -s/-ss:
+            – bùs → búses, gláss → glásses, kìss → kísses
+            – bòss → bósses, clàss → clásses
+        -sh:
+            – dìsh → díshes, brùsh → brúshes, wàsh → wáshes
+            – fìsh → físhes, wìsh → wíshes
+        -ch:
+            – wàtch → wátches, bénch → bénches, chùrch → chúrches
+            – màtch → mátches, sándwich → sándwiches
+        -x:
+            – bòx → bóxes, fòx → fóxes, tàx → táxes
+            – fàx → fáxes, mìx → míxes
+        -z:
+            – bùzz → búzzes, quìz → quízzes, wàltz → wáltzes
+        
+        -o (согласная + o):
+            – tomáto → tomátoes, potáto → potátoes, héro → héroes
+            – écho → échoes, volcáno → volcánoes
+        НО! -o (гласная + o):
+            – zóo → zóos, rádio → rádios, vídeo → vídeos
+            – piáno → piános, stéreo → stéreos
+        + Есть группа слов, где допустимы оба варианта, но -s встречается чаще:
+        volcano -> volcanoes/volcanos, tornado -> tornadoes/tornados.
+
+Слова латинского/греческого происхождения: Можно добавить небольшую заметку для продвинутых: criterion -> criteria, phenomenon -> phenomena, analysis -> analyses. Но это уже для расширения кругозора.
+
+✅ Если слово заканчивается на согласная + -y, то -y → -ies
+        – cíty → cíties, báby → bábies, lády → ládies
+          párty → párties, stóry → stóries
+
+        НО перед -y гласная! : bòy → bòys, kèy → kèys, dày → dàys 
+
+✅ Если слово заканчивается на -f/-fe, часто меняется на -ves
+    – wìfe → wíves, knìfe → kníves, wòlf → wólves
+    – lèaf → léaves, shèlf → shélves
+
+✅ Неправильные формы (запоминать!):
+    – chìld → chíldren, màn → mén, wòman → wómen
+    – fòot → féet, tóoth → téeth, góose → géese
+    – mòuse → míce, lòuse → líce, òx → óxen
+    – pérson → péople
+
+✅ Формы совпадают:
+    – fìsh → fìsh, shéep → shéep, déer → déer
+    – séries → séries, spécies → spécies, áircraft → áircraft
+    – spácecraft → spácecraft, móose → móose
+
+
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
 QUANTIFIERS для исчисляемых:
 
-✅ many, a lot of — много
+✅ mány, a lót of — много
 В разговорной речи:
-    – many чаще в вопросах и отрицаниях
-    – a lot of чаще в утверждениях
-В формальном стиле a lot of использовать НЕ рекомендуется.
+    – mány чаще в вопросах и отрицаниях
+        How mány friénds do you háve?
+        I dòn't háve mány bóoks.
+        There àren't mány péople hère.
+        
+    – a lót of чаще в утверждениях
+        I háve a lót of friénds.
+        There àre a lót of cárs on the stréet.
+        She háas a lót of idéas.
+        
+В формальном стиле a lót of использовать НЕ рекомендуется.
 
-✅ a few — несколько, немного, но достаточно
-✅ few — мало, недостаточно
+✅ a féw — несколько, немного, но достаточно
+    – I háve a féw clòse friénds.
+    – Cán I àsk you a féw quéstions?
+    – We néed a féw mòre cháirs.
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––
+✅ féw — мало, недостаточно
+    – Féw péople knów abòut thìs.
+    – There àre féw óptions léft.
+    – He hàs féw réal friénds.
 
-ОСОБЫЕ СЛУЧАИ:
-
-time/times:
-    – time (неисчисляемое) — время
-        Why do you need so much time for the survey?
-    
-    – times (исчисляемое) — раз
-        Three times a week. — Три раза в неделю.
-        How many times have you been to London?
+✅ How mány — сколько?
+    – How mány bóoks do you háve?
+    – How mány tímes have you bèen to Lóndon?
+    – How mány péople àre cóming to the párty?
+    – How mány cháirs do we néed?

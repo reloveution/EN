@@ -10,8 +10,8 @@ NOUNS (Существительные)
 
 ✅ COUNTABLE (Исчисляемое):
 Объект имеет четкие границы как отдельный предмет.
-    – a chair, two chairs, three chairs
-    – a book, an apple, a person
+    – a cháir, two cháirs, three cháirs
+    – a bóok, an ápple, a pérson
 
 ✅ UNCOUNTABLE (Неисчисляемое):
 Можно разделить и это останется само собой.
@@ -24,55 +24,121 @@ NOUNS (Существительные)
 QUANTIFIERS (квантификаторы) — слова для обозначения количества
 
 Для ОБЕИХ категорий:
-    – some — используется в утверждениях, предложениях и просьбах
-    – any — используется в вопросах и отрицаниях
-    – a lot of — много (в разговорной речи, в утверждениях)
+    – sóme — используется в утверждениях, предложениях и просьбах
+    – ány — используется в вопросах и отрицаниях
+    – a lót of — много (в разговорной речи, в утверждениях)
 
 ТОЛЬКО для countable:
-    – many — много (больше в вопросах и отрицаниях)
-    – a few — несколько, немного, но достаточно
-    – few — мало, недостаточно
+    – mány — много (больше в вопросах и отрицаниях)
+    – a féw — несколько, немного, но достаточно
+    – féw — мало, недостаточно
 
 ТОЛЬКО для uncountable:
-    – much — много
-    – a little — немного, достаточно
-    – little — мало, недостаточно
+    – mùch — много
+    – a líttle — немного, достаточно
+    – líttle — мало, недостаточно
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 SOME vs ANY
 
 ✅ SOME — в утверждениях:
-    – I have some money in my wallet.
-    – There are some books.
-    – There are some birds in the tree.
+    – I háve sóme móney in my wállet.
+    – There àre sóme bóoks.
+    – There àre sóme bìrds in the trée.
 
 ✅ SOME — когда что-то предлагаем или просим:
-    – Would you like some wine?
-    – Can you lend me some money?
-    – Shall I bring a bottle of wine?
+    – Wòuld you líke sóme wíne?
+    – Can you lénd me sóme móney?
+    – Shall I bríng a bóttle of wíne?
 
 ✅ ANY — в вопросах:
-    – Do you have any luggage with you?
-    – Are there any books?
-    – Do you have any questions?
-    – Do you have any money in your wallet? (обычный вопрос)
+    – Do you háve ány lúggage with you?
+    – Àre there ány bóoks?
+    – Do you háve ány quéstions?
+    – Do you háve ány móney in your wállet? (обычный вопрос)
 
 ✅ ANY — в отрицаниях:
-    – No, I don't have any luggage.
-    – There are not any books.
-    – I have not bought any apples.
+    – Nò, I dòn't háve ány lúggage.
+    – There àre nót ány bóoks.
+    – I háve nót bòught ány ápples.
 
-✅ ANY — в значении "любой":
-    – You can buy any dress you like.
+✅ ANY — в значении everything "всё", "любой":
+    – You can bùy ány dréss you líke.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 A LOT OF vs MANY/MUCH
 
 В разговорной речи:
-    – a lot of — в утвердительных предложениях
-    – many/much — в вопросительных и отрицательных
+    – a lót of — в утвердительных предложениях
+    – mány/mùch — в вопросительных и отрицательных
 
 В формальном стиле (юридические документы, работа):
-    – a lot of использовать НЕ рекомендуется
+    – a lót of использовать НЕ рекомендуется
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+СЛОВА С ДВОЙНЫМ ЗНАЧЕНИЕМ
+
+Некоторые слова могут быть исчисляемыми и неисчисляемыми:
+
+✅ cóffee / téa
+    – I dòn't drìnk cóffee. (неисчисл. — напиток)
+    – Two cóffees, please. (исчисл. — две чашки)
+
+✅ háir
+    – Her háir ìs blònd. (неисчисл. — все волосы)
+    – There's a háir in my sóup! (исчисл. — один волосок)
+
+✅ tíme/tímes
+    – Tíme ìs móney. (неисчисл. — понятие времени)
+    – Three tímes a wéek. (исчисл. — раз)
+
+✅ páper
+    – This bóok ìs máde of páper. (неисчисл. — материал)
+    – I néed to wríte a páper. (исчисл. — научная статья)
+
+✅ chícken
+    – I éat chícken. (неисчисл. — мясо)
+    – There àre ten chíckens on the fàrm. (исчисл. — живые курицы)
+
+✅ fìsh
+    – I lòve fìsh. (неисчисл. — рыба как еда)
+    – There àre five físhes in the aquárium. (исчисл. — живые рыбы)
+
+✅ frúit
+    – I éat a lót of frúit. (неисчисл. — фрукты вообще)
+    – There àre mány trópical frúits. (исчисл. — виды фруктов)
+
+✅ gláss
+    – The wíndow ìs máde of gláss. (неисчисл. — стекло)
+    – I néed two glásses of wáter. (исчисл. — стакан)
+
+✅ íron
+    – Íron ìs a stróng métal. (неисчисл. — железо)
+    – I bòught a néw íron. (исчисл. — утюг)
+
+✅ lìght
+    – There ìsn't enòugh lìght. (неисчисл. — свет)
+    – Turn òn the lìght. (исчисл. — лампа)
+
+✅ wòrk
+    – I háve a lót of wòrk. (неисчисл. — работа)
+    – Thìs muséum hàs mány wòrks of àrt. (исчисл. — произведение)
+
+✅ expérience
+    – He hàs a lót of expérience. (неисчисл. — опыт)
+    – It wàs an unforgéttable expérience. (исчисл. — событие)
+
+✅ róom
+    – There ìs nò róom on the bùs. (неисчисл. — место)
+    – My hòuse hàs three róoms. (исчисл. — комната)
+
+✅ chéese
+    – I lòve chéese. (неисчисл. — сыр вообще)
+    – We háve mány chéeses. (исчисл. — виды сыра)
+
+✅ chócolate
+    – She lòves chócolate. (неисчисл. — шоколад)
+    – I bòught chócolates. (исчисл. — конфеты)

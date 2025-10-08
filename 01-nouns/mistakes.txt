@@ -1,0 +1,404 @@
+ТИПИЧНЫЕ ОШИБКИ (Common Mistakes)
+
+❌ → ✅ Правильно
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+1️⃣ ОШИБКИ С КВАНТИФИКАТОРАМИ (many/much, few/little)
+
+❌ I háve mány móney.
+✅ I háve mùch móney. 
+📝 money — неисчисляемое → much
+
+❌ There àre mùch péople.
+✅ There àre mány péople.
+📝 people — исчисляемое → many
+
+❌ I dòn't háve mùch friénds.
+✅ I dòn't háve mány friénds.
+📝 friends — исчисляемое → many
+
+❌ We háve féw wáter.
+✅ We háve líttle wáter.
+📝 water — неисчисляемое → little
+
+❌ She dòesn't drìnk mány cóffee.
+✅ She dòesn't drìnk mùch cóffee.
+📝 coffee — неисчисляемое → much
+
+❌ How mùch cháirs do you néed?
+✅ How mány cháirs do you néed?
+📝 chairs — исчисляемое → many
+
+❌ I dòn't háve mány tíme.
+✅ I dòn't háve mùch tíme.
+📝 time — неисчисляемое → much
+
+❌ There ìsn't mùch bóoks on the shèlf.
+✅ There àren't mány bóoks on the shèlf.
+📝 books — исчисляемое → many
+
+❌ We néed a féw sùgar.
+✅ We néed a líttle sùgar.
+📝 sugar — неисчисляемое → little
+
+❌ He hàs mány lúggage.
+✅ He hàs mùch lúggage.
+📝 luggage — неисчисляемое → much
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+2️⃣ ОШИБКИ С АРТИКЛЕМ a/an ПЕРЕД НЕИСЧИСЛЯЕМЫМ
+
+❌ Gìve me an advíce.
+✅ Gìve me sóme advíce.
+✅ Gìve me a píece of advíce.
+📝 advice — неисчисляемое, нельзя использовать a/an
+
+❌ I néed an ínformátion.
+✅ I néed sóme ínformátion.
+📝 information — неисчисляемое
+
+❌ Can I háve a bútter?
+✅ Can I háve sóme bútter?
+📝 butter — неисчисляемое
+
+❌ He gàve me a móney.
+✅ He gàve me sóme móney.
+📝 money — неисчисляемое
+
+❌ I drànk a mìlk.
+✅ I drànk sóme mìlk. / a gláss of mìlk.
+📝 milk — неисчисляемое
+
+❌ She bòught a fúrniture.
+✅ She bòught sóme fúrniture.
+📝 furniture — неисчисляемое
+
+❌ I néed a ríce for dínner.
+✅ I néed sóme ríce for dínner.
+📝 rice — неисчисляемое
+
+❌ Can you gìve me a sùgar?
+✅ Can you gìve me sóme sùgar?
+📝 sugar — неисчисляемое
+
+❌ He àsked for a hélp.
+✅ He àsked for sóme hélp. / hélp.
+📝 help — неисчисляемое
+
+❌ I wànt a chéese on my sándwich.
+✅ I wànt sóme chéese on my sándwich.
+📝 cheese — неисчисляемое
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+3️⃣ ОШИБКИ С МНОЖЕСТВЕННЫМ ЧИСЛОМ (неисчисляемые не имеют мн.ч.)
+
+❌ I néed ínformátions.
+✅ I néed ínformátion.
+📝 information всегда в единственном числе
+
+❌ Fúrnitures àre expénsive.
+✅ Fúrniture ìs expénsive.
+📝 furniture всегда в единственном числе
+
+❌ Thése lúggages àre héavy.
+✅ Thìs lúggage ìs héavy.
+📝 luggage всегда в единственном числе
+
+❌ I bòught three bréads.
+✅ I bòught three lóaves of bréad.
+📝 bread — неисчисляемое, нужна конструкция
+
+❌ We hèard mány néws.
+✅ We hèard mùch néws. / mány píeces of néws.
+📝 news — неисчисляемое, единственное число
+
+❌ He gàve me góod advíces.
+✅ He gàve me góod advíce. / góod píeces of advíce.
+📝 advice всегда в единственном числе
+
+❌ I bòught two wáters.
+✅ I bòught two bóttles of wáter.
+📝 water — неисчисляемое, нужна конструкция
+
+❌ We néed mòre equípments.
+✅ We néed mòre equípment.
+📝 equipment всегда в единственном числе
+
+❌ She hàs mány jéwelries.
+✅ She hàs mùch jéwelry. / mány píeces of jéwelry.
+📝 jewelry всегда в единственном числе
+
+❌ The téacher gàve us hòmewòrks.
+✅ The téacher gàve us hòmewòrk.
+📝 homework всегда в единственном числе
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+4️⃣ ОШИБКИ С ГЛАГОЛОМ (согласование с неисчисляемыми)
+
+❌ Thése néws àre intéresting.
+✅ Thìs néws ìs intéresting.
+📝 news — единственное число → is
+
+❌ Thìs ínformátions àre úseful.
+✅ Thìs ínformátion ìs úseful.
+📝 information — единственное число → is
+
+❌ The fúrniture àre néw.
+✅ The fúrniture ìs néw.
+📝 furniture — единственное число → is
+
+❌ Yòur lúggages àre réady.
+✅ Yòur lúggage ìs réady.
+📝 luggage — единственное число → is
+
+❌ The móney àre on the táble.
+✅ The móney ìs on the táble.
+📝 money — единственное число → is
+
+❌ Hìs advíce àre álways úseful.
+✅ Hìs advíce ìs álways úseful.
+📝 advice — единственное число → is
+
+❌ The équipment àre expénsive.
+✅ The équipment ìs expénsive.
+📝 equipment — единственное число → is
+
+❌ The rìce àre réady.
+✅ The rìce ìs réady.
+📝 rice — единственное число → is
+
+❌ Hèr háir àre lòng.
+✅ Hèr háir ìs lòng.
+📝 hair (все волосы) — единственное число → is
+
+❌ The wéather àre nìce todày.
+✅ The wéather ìs nìce todày.
+📝 weather — единственное число → is
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+5️⃣ ОШИБКИ С ОТСУТСТВИЕМ АРТИКЛЯ (исчисляемые в ед.ч. требуют артикль!)
+
+❌ I sée càt.
+✅ I sée a càt.
+📝 исчисляемое в единственном числе → нужен артикль
+
+❌ She ìs téacher.
+✅ She ìs a téacher.
+📝 профессия с исчисляемым существительным → a
+
+❌ He hàs dóg.
+✅ He hàs a dóg.
+📝 dog — исчисляемое → a
+
+❌ I bòught cómputer.
+✅ I bòught a cómputer.
+📝 computer — исчисляемое → a
+
+❌ Thìs ìs góod bóok.
+✅ Thìs ìs a góod bóok.
+📝 book — исчисляемое → a
+
+❌ He ìs éngineer.
+✅ He ìs an éngineer.
+📝 профессия → an (перед гласной)
+
+❌ I néed pén.
+✅ I néed a pén.
+📝 pen — исчисляемое → a
+
+❌ There ìs cháir in the córner.
+✅ There ìs a cháir in the córner.
+📝 chair — исчисляемое → a
+
+❌ She wànts ápple.
+✅ She wànts an ápple.
+📝 apple — исчисляемое → an
+
+❌ I lìve in smàll tòwn.
+✅ I lìve in a smàll tòwn.
+📝 town — исчисляемое → a
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+УПРАЖНЕНИЯ ДЛЯ САМОПРОВЕРКИ
+
+ЧАСТЬ 1: Исправьте ошибки в предложениях
+
+1. I have many work to do.
+2. She gave me an advice.
+3. There are five furnitures in the room.
+4. I need informations about this topic.
+5. Can I have a bread, please?
+6. I see dog in the park.
+7. He is doctor.
+8. There isn't many water left.
+9. I bought two luggages.
+10. These news are very interesting.
+11. We don't have much chairs.
+12. The money are in my wallet.
+13. I need few sugar for my tea.
+14. She has many furnitures in her house.
+15. Give me a milk, please.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ОТВЕТЫ К ЧАСТИ 1:
+
+1. I háve mùch wòrk to dò. (work — неисчисляемое)
+2. She gàve me sóme advíce. / a píece of advíce. (advice — неисчисляемое)
+3. There àre five píeces of fúrniture in the róom. (furniture — неисчисляемое)
+4. I néed ínformátion abòut thìs tópic. (information — нет мн.ч.)
+5. Can I háve sóme bréad, please? / a slíce of bréad? (bread — неисчисляемое)
+6. I sée a dóg in the pàrk. (нужен артикль!)
+7. He ìs a dóctor. (нужен артикль!)
+8. There ìsn't mùch wáter léft. (water — неисчисляемое)
+9. I bòught two píeces of lúggage. (luggage — неисчисляемое)
+10. Thìs néws ìs vèry intéresting. (news — единственное число)
+11. We dòn't háve mány cháirs. (chairs — исчисляемое)
+12. The móney ìs in my wállet. (money — единственное число)
+13. I néed a líttle sùgar for my téa. (sugar — неисчисляемое)
+14. She hàs a lót of fúrniture in hèr hòuse. (furniture — неисчисляемое, нет мн.ч.)
+15. Gìve me sóme mìlk, please. / a gláss of mìlk. (milk — неисчисляемое)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ЧАСТЬ 2: Переведите на английский
+
+1. У меня есть немного денег.
+2. На столе лежит много книг и немного бумаги.
+3. Мне нужен твой совет.
+4. Купи, пожалуйста, булку хлеба и банан.
+5. В этой комнате мало мебели.
+6. Дай мне, пожалуйста, стакан воды.
+7. Я купил три бутылки вина.
+8. Она дала мне полезную информацию.
+9. У нас мало времени.
+10. В холодильнике есть немного молока.
+11. Мне нужны два кусочка сыра.
+12. Он дал мне три совета.
+13. Налей мне чашку чая, пожалуйста.
+14. У меня есть хорошие новости для тебя.
+15. Добавь щепотку соли.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ОТВЕТЫ К ЧАСТИ 2:
+
+1. I háve sóme móney. / I háve a líttle móney.
+
+2. There àre mány bóoks and a líttle páper òn the táble.
+
+3. I néed yòur advíce. / I néed a píece of advíce.
+
+4. Please bùy a lóaf of bréad ànd a banána.
+
+5. There ìs líttle fúrniture in thìs róom. 
+   There àre féw píeces of fúrniture in thìs róom.
+
+6. Gìve me a gláss of wáter, please.
+
+7. I bòught three bóttles of wíne.
+
+8. She gàve me úseful ínformátion. 
+   She gàve me a úseful píece of ínformátion.
+
+9. We háve líttle tíme.
+
+10. There ìs sóme mìlk in the frídge. 
+    There ìs a líttle mìlk in the frídge.
+
+11. I néed two slíces of chéese. 
+    I néed two píeces of chéese.
+
+12. He gàve me three píeces of advíce.
+
+13. Pòur me a cùp of téa, please.
+
+14. I háve góod néws for you. 
+    I háve a píece of góod néws for you.
+
+15. Àdd a pínch of sàlt.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ЧАСТЬ 3: Выберите правильный вариант
+
+1. I don't have (much/many) time.
+2. There are (much/many) people here.
+3. Can you give me (an advice/some advice)?
+4. (This news is/These news are) shocking.
+5. I need (a/some) water.
+6. She has (few/little) experience.
+7. We bought (two furnitures/two pieces of furniture).
+8. (Money is/Money are) important.
+9. I see (cat/a cat) on the roof.
+10. He is (teacher/a teacher).
+11. I have (a few/a little) friends.
+12. There isn't (many/much) sugar left.
+13. Give me (three breads/three loaves of bread).
+14. I need (informations/information).
+15. She has (many/much) jewelry.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ОТВЕТЫ К ЧАСТИ 3:
+
+1. much (time — неисчисляемое)
+2. many (people — исчисляемое)
+3. some advice (advice — неисчисляемое, нет a/an)
+4. This news is (news — единственное число)
+5. some (water — неисчисляемое, нет a)
+6. little (experience — неисчисляемое)
+7. two pieces of furniture (furniture — неисчисляемое)
+8. Money is (money — единственное число)
+9. a cat (исчисляемое → нужен артикль)
+10. a teacher (профессия → нужен артикль)
+11. a few (friends — исчисляемое)
+12. much (sugar — неисчисляемое)
+13. three loaves of bread (bread — неисчисляемое)
+14. information (нет множественного числа)
+15. much (jewelry — неисчисляемое)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ЧАСТЬ 4: Дополнительные переводы с конструкциями
+
+1. Принеси мне два листа бумаги.
+2. Я выпил три чашки кофе сегодня.
+3. Можно мне кусочек торта?
+4. Купи пять бутылок воды.
+5. Мне нужна капля удачи. (luck — удача)
+6. Он съел два кусочка пиццы.
+7. Дай мне еще один кусок хлеба.
+8. У меня две новости для тебя.
+9. Она купила три плитки шоколада.
+10. Налей каплю молока в чай.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ОТВЕТЫ К ЧАСТИ 4:
+
+1. Bríng me two shéets of páper.
+
+2. I drànk three cùps of cóffee todày.
+
+3. Can I háve a slíce of cáke? / a píece of cáke?
+
+4. Bùy five bóttles of wáter.
+
+5. I néed a dróp of lùck.
+
+6. He àte two slíces of pízza.
+
+7. Gìve me anóther slíce of bréad. / anóther píece of bréad.
+
+8. I háve two píeces of néws for you.
+
+9. She bòught three bàrs of chócolate.
+
+10. Pòur a dróp of mìlk ìnto the téa.
