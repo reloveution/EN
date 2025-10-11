@@ -1,8 +1,9 @@
 COUNTABLE NOUNS (Исчисляемые существительные)
 
-Countable nouns are nouns that refer to objects or concepts that can be counted.
+Countable nouns are nouns that refer to objects or concepts that can be counted(that we cant count).
+that can be counted - могут быть посчитаны - пассивный залог
 
-С артиклем _a_ (перед согласными):
+С артиклем _a_ (перед согласными): неопределенный, но иногда используется как определенный, с определенными существительными
     – a potáto, a jób, a cháir, a bóok, a pérson
     – a dóg, a càr, a hòuse, a téacher, a tàble
     – a cómputer, a phóne, a cíty, a fríend
@@ -10,17 +11,19 @@ Countable nouns are nouns that refer to objects or concepts that can be counted.
 С артиклем _an_ (перед гласными):
     – an ápple, an órаnge, an égg, an idéa, an úmbrella
     – an élephant, an áctor, an ócean, an énemy
-    – an hònest pérson, an hòur (h немая!)
+    – an hònest(честный) pérson, an hòur - у этих слов h немая! 
 
-С артиклем _the_ (конкретный предмет):
+С артиклем _the_ (конкретный предмет, либо уникальный типа The star про солнце, the moon про луну):
+Когда мы классифицируем группы людей мы можем не использовать артикль school teachers, taxi drivers,
+но если говорим богаты и бедные, то надо использовать артикль poor бедность без артикля, с артиклем the poor это бедные(люди), и также rich.
     – the bóok on the táble, the càr I bòught
     – the téacher whò hélped me, the cháir by the wíndow
-    – the ápple you gàve me, the hòuse òn the córner
+    – the ápple you gàve(give, given) me, the hòuse òn the córner on the street(на углу)
 
 Во множественном числе:
     – two potátoes, three jóbs, fòur cháirs
-    – mány bóoks, several péople, a féw dógs
-    – the bóoks on the táble, the cárs in the stréet
+    – mány bóoks, several(несколько) péople, a féw dógs
+    – the bóoks on the táble, the cárs in the stréets
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -38,34 +41,34 @@ Countable nouns are nouns that refer to objects or concepts that can be counted.
 АРТИКЛИ В ЕДИНСТВЕННОМ ЧИСЛЕ:
 
 Почти всегда используется артикль!
-⚠️ ВАЖНО! Исчисляемое существительное в единственном числе НЕ МОЖЕТ стоять без артикля или определителя!
+⚠️ ВАЖНО! Исчисляемое существительное в единственном числе НЕ МОЖЕТ стоять без артикля или определителя(притяжательное my, his/указательное this/that)!
     ❌ I sée càt. (неправильно)
     ✅ I sée a càt. / I sée the càt. / I sée my càt.
     ❌ She ìs téacher. (неправильно)
     ✅ She ìs a téacher.
 
 ✅ Indefinite article — _a/an_
-    – Используем _an_ если после артикля гласная
+    – Используем _an_ если после артикля гласная, ИСКЛЮЧЕНИЕ A YEAR потому что Y как согласная
     – She has gót a càr.
     – I hèard a wónderful sóng last níght.
     – He ìs a dóctor.
     – I néed a pén.
-    – That's an ápple.
+    – That's(тот) an ápple.
     – She ìs an éngineer.
-    – It wàs an hònest mìstake. (h немая)
-    – I'll be there in an hòur. (h немая)
+    – It wàs(прошедшее, а настоящее it is) an hònest mìstake. (h немая) как переводится разобраться что за фраза. Исключение хоть h и согласная, но артикль ставим как перед гласной и звука h нет. Опираемся на то что мы слышим а не как пишется. Это исключение.
+    – I'll(will) be there in an hòur. (h немая)
 
 ✅ Definite article — _the_
     – Если после _the_ гласная, произносим как "thi" (ápple, hòur)
     – Can you ópen the wíndow, please?
     – The bóok on the táble ìs míne.
-    – I lòve the càr you bòught.
+    – I lòve the càr (that- которую, пропускаем) you bòught.
     – The sùn ìs shíning todày.
-    – Close the dòor, please.
+    – Close the dòor, please. should be - пассивный залог
     – The ápple ìs réd. (произносим "thi")
-    – The hòur hàs cóme. (произносим "thi")
+    – The hòur hàs cóme(настал, пришел, а прошедшее came). Настал (произносим "thi") h - не происзносим в hour
 
-✅ Possessive притяжательные — hèr, hìs, mỳ, your, òur, their, ìts
+✅ Poss(з)essive притяжательные — hèr, hìs, mỳ, your, òur, their, ìts как средний род ЕГО, как закрой(его) окно(оно)
     – This ìs hèr dáughter.
     – Thàt's mỳ càr.
     – Hìs bóok ìs on the táble.
@@ -78,7 +81,7 @@ Countable nouns are nouns that refer to objects or concepts that can be counted.
     – Thàt màn is stáring at me.
     – Thìs bóok ìs intéresting.
     – Thàt càr ìs expénsive.
-    – Thìs chàir ìs cómfortable.
+    – Thìs chàir ìs cómfortable. камфтбл
     – Thàt idéa ìs brillíant.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -93,17 +96,17 @@ Countable nouns are nouns that refer to objects or concepts that can be counted.
     – Dógs àre lóyal anímals.
 
 ✅ Definite article _the_
-    – The bóoks on the táble àre míne.
+    – The bóoks on the táble àre míne(мои). посмотреть табличку в лс тг Ника
     – The chíldren àre pláying in the pàrk.
     – The cárs in the stréet àre néw.
     – The ápples in thìs bàsket àre frésh.
     – The stúdents àre stúdying for the exàm.
 
-✅ Quantifiers: mány, a lót of, a féw, féw
+✅ Quantifiers: mány, a lót of, a féw, féw - квантифаерс
 
 ✅ Some/many — в утверждениях
     – There àre sóme bóoks.
-    – There àre sóme bìrds in the trée.
+    – There àre sóme bìrds on the trée.
     – We néed to bùy sóme ballóons for the párty.
     – I've (háve) séen a lót of gréat fílms récently.
     – She hàs sóme friénds in Lóndon.
@@ -111,37 +114,36 @@ Countable nouns are nouns that refer to objects or concepts that can be counted.
 ✅ Many — в вопросах и отрицаниях
     – We dídn't táke mány píctures.
     – Do you háve mány friénds?
-    – There àren't mány péople hère.
+    – There àren't mány péople hère. are not
     – I dòn't knòw mány wòrds in Spánish.
     – Àre there mány óptions?
 
-✅ A few — несколько (положительное)
+✅ A few — несколько (положительное) и в вопросах и утверждениях
     – I háve a féw clòse friénds.
     – There àre a féw cháirs in the róom.
     – We néed a féw mòre mínutes.
     – She máde a féw mìstakes.
     – I bòught a féw ápples.
 
-✅ Few — мало (отрицательное)
-    – Féw péople knów abòut thìs.
+✅ Few — мало (отрицательное) и в вопросах и утверждениях
+    – Féw péople knów abòut thìs secret.
     – There àre féw góod réstaurants hère.
     – He hàs féw réal friénds.
-    – Féw stúdents pàssed the tést.
+    – Féw stúdents pàssed the tést. паст
     – Very féw péople spéak thìs lánguage.
 
 ✅ Any — в вопросах
     – Àre there ány bóoks?
     – Do you háve ány quéstions?
-    – Àre there ány ápples léft?
+    – Àre there ány ápples léft? остались?
     – Do you knòw ány góod réstaurants?
-    – Càn you gìve me ány advíce?
 
 ✅ Any — в значении "любой"
-    – You can bùy ány dréss you líke.
+    – You can bùy ány dréss (as) you líke.
     – Táke ány chàir you wànt.
-    – You can chóose ány cólor.
+    – You can chóose ány cólor. (color - американский, colour - британский, но читается одинакого)
     – Àsk me ány quéstions.
-    – Cóme ány tíme you líke.
+    – Cóme ány tíme (if - если, which - в какое, as - как/когда) you líke.
 
 ✅ Not any / No — в отрицаниях
     – There àre nò bóoks.
@@ -163,7 +165,7 @@ Countable nouns are nouns that refer to objects or concepts that can be counted.
             – bòss → bósses, clàss → clásses
         -sh:
             – dìsh → díshes, brùsh → brúshes, wàsh → wáshes
-            – fìsh → físhes, wìsh → wíshes
+            – fìsh → físhes(оооочень редко), wìsh → wíshes
         -ch:
             – wàtch → wátches, bénch → bénches, chùrch → chúrches
             – màtch → mátches, sándwich → sándwiches
@@ -188,27 +190,27 @@ Countable nouns are nouns that refer to objects or concepts that can be counted.
         – cíty → cíties, báby → bábies, lády → ládies
           párty → párties, stóry → stóries
 
-        НО перед -y гласная! : bòy → bòys, kèy → kèys, dày → dàys 
+        НО перед -y гласная! : bòy → bòys, kèy → kèys(киз), dày → dàys 
 
-✅ Если слово заканчивается на -f/-fe, часто меняется на -ves
+✅ Если слово заканчивается на -f/-fe, часто меняется на -ves в письменном, но произносится как оглушенная v и получается что говорим как будто бы f
     – wìfe → wíves, knìfe → kníves, wòlf → wólves
     – lèaf → léaves, shèlf → shélves
 
 ✅ Неправильные формы (запоминать!):
     – chìld → chíldren, màn → mén, wòman → wómen
     – fòot → féet, tóoth → téeth, góose → géese
-    – mòuse → míce, lòuse → líce, òx → óxen
-    – pérson → péople
+    – mòuse → míce, lòuse(блоха) → líce(лайс), òx(типа быка) → óxen
+    – pérson → péople (это покопать подробнее)
 
 ✅ Формы совпадают:
-    – fìsh → fìsh, shéep → shéep, déer → déer
+    – fìsh → fìsh(поискать подробнее про исключение тут в записях где-то), shéep → shéep, déer → déer
     – séries → séries, spécies → spécies, áircraft → áircraft
-    – spácecraft → spácecraft, móose → móose
+    – spácecraft → spácecraft, móose → móose(лось лоси)
 
 
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
-QUANTIFIERS для исчисляемых:
+QUANTIFIERS для исчисляемых: квэнтифАэрс
 
 ✅ mány, a lót of — много
 В разговорной речи:
@@ -220,7 +222,7 @@ QUANTIFIERS для исчисляемых:
     – a lót of чаще в утверждениях
         I háve a lót of friénds.
         There àre a lót of cárs on the stréet.
-        She háas a lót of idéas.
+        She hás a lót of idéas.
         
 В формальном стиле a lót of использовать НЕ рекомендуется.
 
