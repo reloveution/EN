@@ -1,12 +1,44 @@
 UNCOUNTABLE NOUNS (Неисчисляемые существительные)
 
-Uncountable nouns are nouns that refer to a substance, material, abstract concept, or other object that cannot be counted individually.
+- Нельзя посчитать отдельно
+- Это можно разделить и оно останется само собой
+            Воду можно разделить, и она останется водой.
+            Water can be divided, and it will still be water.
+- Имеют только одну форму и согласуются с глаголом в единственном числе
 
-Неисчисляемые существительные имеют только одну форму и согласуются с глаголом в единственном числе.
+Примеры:
     – There ìs sànd in my shóes.
     – Your lúggage lóoks héavy.
 
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+КАТЕГОРИИ неисчисляемых существительных:
+
+Еда: méat, sàlt, bréad, chócolate, sóup, bútter, ríce, bácon, béef, flòur, fóod
+Жидкости: téa, cóffee, lémonáde, júice, pétrol, óil, shampóo, wáter, wíne, mìlk
+Газы: óxygen (кислород), nítrogen (азот), hýdrogen (водород), cárbon dióxide
+Материалы и вещества: góld, wóod, sànd, páper, cóal, áir, métal
+Предметы изучения и языки: chémistry, líterature, Spánish, Énglish
+Болезни: flù, mùmps (свинка), méasles (корь)
+Природные явления: ráin, snów, thúnder (гром), líghtning, súnshine
+Виды спорта: fóotball, ténnis, hóckey
+Абстрактные понятия: háppiness, lòve, friéndship, béauty, púnishment, nóise, tíme
+Собирательные понятия: bággage, equípment, machínery, jéwelry (украшения)
+Действия на -ing:swímming, rúnning, shópping, réading, cóoking
+Другое: móney, fúrniture, wéather, lúggage, néws
+
+
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+АРТИКЛИ
+
 Перед неисчисляемыми существительными НЕЛЬЗЯ ставить неопределенный артикль a/an.
+
+✅ Нулевой артикль — отсутствие артикля перед существительным (часто):
+    – She prefèrs gréen téa. (нельзя использовать «a»)
+    – Móney ìs impórtant.
+    – Fúrniture càn be expénsive.
+    – Wáter ìs esséntial for lífe.
+    – Músic màkes me háppy.
 
 
 
@@ -36,13 +68,6 @@ QUANTIFIERS ТОЛЬКО для неисчисляемых:
     – He hàs líttle experiénce.
     – There ìs líttle ínformátion abòut thìs tópic.
 
-✅ How much — сколько?
-    – How mùch móney do you néed?
-    – How mùch tíme do we háve?
-    – How mùch wáter shòuld I àdd?
-    – How mùch dòes it cóst?
-    – How mùch lúggage can I táke?
-
 
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -70,21 +95,3 @@ QUANTIFIERS ТОЛЬКО для неисчисляемых:
     – I háve two píeces of néws (У меня есть две новости)
     – A píece of advíce
     – An ítem of néws (новость)
-
-
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––
-КАТЕГОРИИ неисчисляемых существительных:
-
-Еда: méat, sàlt, bréad, chócolate, sóup, bútter, ríce, bácon, béef, flòur, fóod
-Жидкости: téa, cóffee, lémonáde, júice, pétrol, óil, shampóo, wáter, wíne, mìlk
-Газы: óxygen (кислород), nítrogen (азот), hýdrogen (водород), cárbon dióxide
-Материалы и вещества: góld, wóod, sànd, páper, cóal, áir, métal
-Предметы изучения и языки: chémistry, líterature, Spánish, Énglish
-Болезни: flù, mùmps (свинка), méasles (корь)
-Природные явления: ráin, snów, thúnder (гром), líghtning, súnshine
-Виды спорта: fóotball, ténnis, hóckey
-Абстрактные понятия: háppiness, lòve, friéndship, béauty, púnishment, nóise, tíme
-Собирательные понятия: bággage, equípment, machínery, jéwelry (украшения)
-Действия на -ing:swímming, rúnning, shópping, réading, cóoking
-Другое: móney, fúrniture, wéather, lúggage, néws

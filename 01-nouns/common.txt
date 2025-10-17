@@ -1,70 +1,61 @@
-NOUNS (Существительные)
-
-В английском языке существительные делятся на два основных типа:
-
-    1. Countable nouns
-        - Можно посчитать отдельными единицами.
-        - Объект имеет четкие границы как отдельный предмет.
-            A cháir, two cháirs, three cháirs, a bóok, an ápple, a pérson
-
-    2. Uncountable nouns
-        - Нельзя посчитать отдельно.
-        - Это можно разделить и оно останется само собой.
-            Воду можно разделить, и она останется водой.
-            Water can be divided, and it will still be water.
-
-
-
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
-QUANTIFIERS (квантификаторы) — слова для обозначения количества
+Общие артикли:
 
-Для ОБЕИХ категорий:
-    
-✅ Нулевой артикль — отсутствие артикля перед существительным (часто):
-    – She prefèrs gréen téa. (нельзя использовать «a»)
-    – Móney ìs impórtant.
-    – Fúrniture càn be expénsive.
-    – Wáter ìs esséntial for lífe.
-    – Músic màkes me háppy.
+✅ Определенный артикль _the_ (используется с исчисляемыми в единственном и множественном числе, и с неисчисляемыми).
 
-✅ Определенный артикль _the_ (когда конкретный):
+С исчисляемыми в единственном числе:
+    – The bóok on the táble ìs míne.
+    – Can you ópen the wíndow, please?
+    – I lòve the càr (that- которую, пропускаем) you bòught.
+
+С исчисляемыми во множественном числе:
+    – The bóoks on the táble àre míne.
+    – The cárs in the stréets are new.
+    – The chíldren àre pláying in the pàrk. Исчисляемое во множ числе
+
+С неисчисляемыми:
     – The téa that she sèrved was delícious. (конкретный чай, который она подала)
     – The móney in my wállet ìs nót enóugh.
     – The wáter in thìs bóttle ìs cóld.
-    – The músic at the párty wàs lòud.
-    – The ínformátion you gàve me wàs vèry úseful.
+
+
+⚠️ Произношение: Если после _the_ гласная, произносим как "thi" (ápple, hòur)
+
+- Конкретный предмет, либо уникальный (The sun про солнце, the moon про луну)
+- Когда мы классифицируем группы людей - можем не использовать артикль: school teachers, taxi drivers,
+- Но, если говорим богатые и бедные, то надо использовать артикль: poor бедность без артикля, с артиклем the poor это бедные(люди), и также rich.
+    
+
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Общие QUANTIFIERS (квантификаторы) — слова для обозначения количества
 
 ✅ Some — в утверждениях, предложениях, просьбах:
-    – I háve sóme móney in my wállet.
-    – There àre sóme bóoks.
-    – There àre sóme bìrds on the trée.
-    – Wòuld you líke sóme wíne? (предложение)
-    – Can you lénd me sóme móney? (просьба)
-    – Shall I bríng a bóttle of wíne?
-    - *Просьба/вопрос: Can you lend me some money? - больше похоже на предложение, чем на вопрос. Типа предложение в вопросительной форме.
+    – I háve sóme móney in my wállet. 
+    – There àre sóme bóoks. 
+    – Wòuld you líke sóme wíne?
+    – Can you gìve me sóme advíce?
+    - Can you lend me some money? - Вопрос как предложение.
 
-✅ Any — в вопросах и отрицаниях:
-    – Do you háve ány lúggage with you?
-    – Àre there ány bóoks?
-    – Do you háve ány quéstions?
-    – Do you háve ány móney in your wállet?
-    – Nò, I dòn't háve ány lúggage.
-    – There àre nót ány bóoks.
-    – I háve nót bòught ány ápples.
+✅ Any — в значении любой, некий, какой-то 
+    В вопросах и отрицаниях:
+        – Do you háve ány lúggage with you?
+        – Àre there ány bóoks?
+        – Nò, I dòn't háve ány lúggage.
+        – We háve nò mòre cháirs.
+    Предложения, приглашения, разрешения:
+        – You can bùy ány dréss (as) you líke.
+        – Táke ány chàir you wànt.
 
-✅ Any — в значении "любой" (предложения, приглашения, разрешения):
-    – You can bùy ány dréss as/which(можно опускать) you líke.
-
-✅ A lot of — много (для всех):
-    – You háve a lót of fúrniture in your róom.
-    – I've sáved a lót of móney.
-    – There ìs a lót of tráffic todày.
-    – She hàs a lót of experiénce.
-    – We háve a lót of wòrk to dò.
-        В разговорной речи:
-        – a lót of — только в утвердительных предложениях
-        В формальном стиле (юридические документы, работа):
-        – НЕ ИСПОЛЬЗОВАТЬ
+✅ A lot of — много в утвердительных предложениях в разговорной речи:
+    Неисчисляемые:
+        – You háve a lót of fúrniture in your róom. 
+        – I've sáved a lót of móney. 
+    Исчисляемые (ТОЛЬКО множественное число):
+        – I háve a lót of friénds.
+        – There àre a lót of cárs on the stréet.
+    – НЕ ИСПОЛЬЗОВАТЬ в формальном стиле (юридические документы, работа).
+        
 
 
 
