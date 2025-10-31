@@ -1,0 +1,72 @@
+ARTICLES WITH MOUNTAINS & ISLANDS (Артикли с горами и островами)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Один объект - БЕЗ АРТИКЛЯ (NO ARTICLE):
+
+🏔️ Отдельные горы:
+    – Èverest, Élbrus, Móunt Ráinier, Móunt Fúji, Vésuvius
+    – They clímbed Èverest.
+    – Móunt Fúji ìs in Jápan.
+    – Élbrus ìs the híghest móuntain in Rússia.
+    – Móunt Ráinier ìs véry bèautiful.
+    – Móunt Vésuvius ìs nèar Nàples.
+
+⚠️ Горы с "Mount" впереди:
+    – Móunt Èverest, Móunt Fúji (БЕЗ артикля)
+    – Èverest, Fúji (БЕЗ артикля)
+    – НО: the Èverest (НЕПРАВИЛЬНО!)
+
+🏝️ Отдельные острова:
+    – Cýprus, Créte, Sícily, Málta, Madagáscar, Jáva
+    – We résted on Cýprus.
+    – Sícily ìs pàrt of Ítaly.
+    – Créte ìs in the Méditerranean.
+    – Málta hàs bèautiful wáters.
+    – Madagáscar ìs the fóurth lárgest ìsland.
+    – Jáva ìs pàrt of Indonésia.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Группа объектов С АРТИКЛЕМ THE:
+
+🏔️ Горные цепи и хребты:
+    – the Álps, the Hímálayas, the Úrals, the Róckies, the Ándes
+    – the Cáucasus (Мóuntains), the Bláck Hílls
+    – We skíed in the Álps.
+    – The Hímálayas àre the híghest móuntains.
+    – The Cáucasus séparates Rússia and Géorgia.
+    – The Bláck Hílls àre in Sóuth Dákota.
+    – The Úrals séparate Európe and Ásia.
+
+🏝️ Группы островов и архипелаги:
+    – the Báhamas, the Phílippines, the Màldives, the Cànary Íslands / the Cànaries
+    – the Hàwaiian Íslands, the Fàroé Íslands, the Brítish Ísles, the Azóres
+    – We résted on the Báhamas.
+    – The Phílippines àre bèautiful.
+    – The Brítish Ísles consíst of twó mài n ìslands.
+    – The Azóres àre in the Átlantic.
+    – We vísited the Cànaries.
+
+⚠️ Страны-архипелаги (с артиклем):
+    – the Báhamas, the Phílippines, the Màldives
+    – (используются с артиклем, так как это группы островов)
+    – Примечание: эти страны также упомянуты в continents-countries-cities.txt
+
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ТИПИЧНЫЕ ОШИБКИ:
+
+❌ They clímbed the Èverest.
+✅ They clímbed Èverest. / Móunt Èverest.
+
+❌ We résted on Báhamas.
+✅ We résted on the Báhamas.
+
+❌ They skíed in Álps.
+✅ They skíed in the Álps.
+
+❌ I vísited the Cýprus.
+✅ I vísited Cýprus.
+
+❌ The Málta ìs smáll.
+✅ Málta ìs smáll.
+
