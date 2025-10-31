@@ -1,21 +1,7 @@
 ARTICLES WITH CITY PLACES (Артикли с названиями в городе)
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
-🏠 ОБЩИЕ МЕСТА (Общие названия) → ВСЕГДА С АРТИКЛЕМ the:
-    – the hòuse, the lìbrary, the óffice, the shòp
-    – the státion, the cìnema, the théater
-    
-    ✅ I wént to the hòuse. (всегда с артиклем)
-    ✅ Let's gó to the cìnema. (всегда с артиклем)
-    ✅ She wórks in the óffice. (всегда с артиклем)
-    ✅ We méet at the státion. (всегда с артиклем)
-    ✅ He bòught it at the shòp. (всегда с артиклем)
-    ✅ I'm góing to the lìbrary. (всегда с артиклем)
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––
 Парки, улицы, площади, мосты, аэропорты → почти всегда БЕЗ артикля:
-    – Hýde Pàrk, Hígh Strèet, Réd Squàre, Lóndon Brídge
-    – Kénnedy Áirport
 
 🌳 Парки:
     – Hýde Pàrk, Wíndsor Sáfari Pàrk
@@ -52,7 +38,6 @@ ARTICLES WITH CITY PLACES (Артикли с названиями в город�
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
 Музеи, театры, гостиницы → С артиклем the:
-    – the Brítish Múseum, the Bólshoi Théatre, the Kíng's Hòtel
 
 🏛️ Музеи:
     – the Nátural Hístory Múseum, the Hístory Múseum
@@ -88,7 +73,7 @@ ARTICLES WITH CITY PLACES (Артикли с названиями в город�
     – The Kíng's Hòtel ìs véry éxpensive.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
-🏛️ Достопримечательности(LANDMARKS) ссегда С артиклем the:
+🏛️ Достопримечательности(LANDMARKS) всегда С артиклем the:
     – the Bíg Bén, the Krémlin, the Tówer
     – the Bùckingham Pálace, the Wéstminster
     – the Wéstminster Ábbey, the Hóuses of Párliament
@@ -137,15 +122,3 @@ ARTICLES WITH CITY PLACES (Артикли с названиями в город�
 
 ❌ Krémlin ìs in Móscow.
 ✅ The Krémlin ìs in Móscow.
-
-❌ I wént to cìnema.
-✅ I wént to the cìnema. (кинотеатр - всегда с артиклем)
-
-❌ Let's gó to théater.
-✅ Let's gó to the théater. (театр - всегда с артиклем)
-
-❌ She wórks in óffice.
-✅ She wórks in the óffice. (всегда с артиклем)
-
-❌ We méet at státion.
-✅ We méet at the státion. (всегда с артиклем)
