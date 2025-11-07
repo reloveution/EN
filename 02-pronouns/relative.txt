@@ -1,0 +1,289 @@
+ОТНОСИТЕЛЬНЫЕ МЕСТОИМЕНИЯ (Relative Pronouns)
+
+Относительные местоимения связывают два предложения, вводя придаточное предложение, которое уточняет или описывает существительное.
+Они заменяют уже упомянутый объект (антецедент) и используются в определительных придаточных предложениях.
+Различают ограничительные и неограничительные придаточные с разными правилами использования.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ОСНОВНЫЕ ФОРМЫ
+
+✅ Основные относительные местоимения:
+    – who (кто - для людей, подлежащее): The man who called is my friend.
+    – whom (кого/кому - для людей, дополнение, формально): The person whom I met was nice.
+    – whose (чей - притяжательное, для всех): The student whose book I borrowed.
+    – which (который - для вещей/животных/идей): The book which I read was interesting.
+    – that (который - универсальное): The movie that we saw was great.
+
+✅ Относительные наречия (дополнительно):
+    – where (где): The city where I live.
+    – when (когда): The day when we met.
+    – why (почему): The reason why he left.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ТИПЫ ПРИДАТОЧНЫХ ПРЕДЛОЖЕНИЙ
+
+✅ Ограничительные (defining/restrictive):
+    – Без запятых, важны для смысла основного предложения
+    – Определяют, о каком именно объекте идёт речь
+    – Можно использовать that вместо who/which
+    – The book that I bought is expensive. (именно та книга, которую я купил)
+
+✅ Неограничительные (non-defining/non-restrictive):
+    – С запятыми, добавляют дополнительную информацию
+    – Нельзя опускать, информация второстепенная
+    – Используют только who/which/whose (не that)
+    – My brother, who lives in London, is a doctor. (дополнительная информация)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ГРАММАТИЧЕСКИЕ ПРАВИЛА
+
+✅ Сочетаемость:
+    – Who/whom/whose: только для людей/одушевлённых
+    – Which: для вещей/животных/абстрактных понятий
+    – That: универсальное, для любых антецедентов
+    – Whose + существительное: The man whose car broke down.
+
+✅ Whom vs Who:
+    – Whom: формальное дополнение - To whom did you speak?
+    – Who: разговорное дополнение - Who did you speak to?
+    – После предлогов: The person with whom I worked.
+
+✅ Предлоги с относительными местоимениями:
+    – Предлог перед местоимением (формально): The house in which I live.
+    – Предлог в конце (разговорно): The house which I live in.
+    – Whom с предлогами: The person to whom I spoke.
+
+✅ Which для целых предложений:
+    – Ссылается на предыдущее предложение: He missed the train, which made him late.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+КОГДА НЕ ИСПОЛЬЗОВАТЬ THAT
+
+✅ That не используется:
+    – В неограничительных придаточных: My friend, who lives here, is nice. (не that)
+    – После предлогов: The city in which I was born. (не in that)
+    – После собственных имён: John, who came late, apologized. (не that)
+    – В конструкциях both...and, either...or: Both boys who/that came.
+
+✅ That обязательно использовать:
+    – Когда антецедент - неопределённое местоимение: all/somebody/anything that...
+    – All that glitters is not gold.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ОТНОСИТЕЛЬНЫЕ НАРЕЧИЯ
+
+✅ Where (место):
+    – The restaurant where we ate was excellent.
+    – Замена: The restaurant which/at which we ate.
+
+✅ When (время):
+    – The year when I graduated was 2020.
+    – Замена: The year in which I graduated.
+
+✅ Why (причина):
+    – The reason why he left is personal.
+    – Замена: The reason for which he left.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ПРАКТИЧЕСКИЕ ШАБЛОНЫ
+
+✅ Ограничительные придаточные:
+    – The person who called you is waiting.
+    – The book that I need is on the shelf.
+    – The movie which won the award is excellent.
+
+✅ Неограничительные придаточные:
+    – My sister, who is a doctor, lives in Paris.
+    – The report, which I wrote yesterday, is ready.
+    – London, whose population is huge, attracts tourists.
+
+✅ С предлогами:
+    – The company for which I work is growing.
+    – The person with whom I spoke was helpful.
+    – The house in which I grew up is old.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ЧАСТЫЕ ОШИБКИ
+
+❌ → ✅ Правильно
+
+❌ The man, that lives next door → ✅ The man who lives next door
+    – The man who lives next door (that нельзя в неограничительных)
+
+❌ The book which I read it was long → ✅ The book which I read was long
+    – The book which I read was long (не повторять объект)
+
+❌ The person whom he spoke is nice → ✅ The person whom he spoke to is nice
+    – The person whom he spoke to is nice (предлог в конце)
+
+❌ That's the reason because I left → ✅ That's the reason why I left
+    – That's the reason why I left (why вместо because)
+
+❌ The company, whose it is famous → ✅ The company, which is famous
+    – The company, which is famous (неправильная конструкция с whose)
+
+❌ I know the man which came → ✅ I know the man who came
+    – I know the man who came (which для людей не используется)
+
+❌ This is the place that we met → ✅ This is the place where we met
+    – This is the place where we met (where для места)
+
+❌ The woman, that I met → ✅ The woman whom I met / who I met
+    – The woman whom I met (whom для дополнения)
+
+❌ The day when he arrived which was rainy → ✅ The rainy day when he arrived
+    – The rainy day when he arrived (не комбинировать)
+
+❌ All the people who came → ✅ All the people that came
+    – All the people that came (that предпочтительно с all)
+
+❌ The book whose author is famous → ✅ The book whose author is famous
+    – Правильно, но можно: The book the author of which is famous
+
+❌ He apologized, that surprised everyone → ✅ He apologized, which surprised everyone
+    – He apologized, which surprised everyone (which для предложений)
+
+❌ The reason for why he left → ✅ The reason why he left
+    – The reason why he left (for избыточно)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ПАМЯТКИ
+
+✅ Who/whom/whose для людей; which/that для вещей
+✅ That нельзя в неограничительных придаточных и после предлогов
+✅ Whom формально; who разговорно для дополнения
+✅ Предлог перед местоимением (формально) или в конце (разговорно)
+✅ Whose + существительное = притяжательная конструкция
+✅ Ограничительные без запятых; неограничительные с запятыми
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+УПРАЖНЕНИЯ ДЛЯ САМОПРОВЕРКИ
+
+ЧАСТЬ 1: Выберите правильное относительное местоимение
+
+1. The man ________ called you is waiting. (who/which)
+2. The book ________ I read was interesting. (that/whose)
+3. My friend, ________ lives in Paris, is coming. (who/that)
+4. The reason ________ he left is unknown. (why/which)
+5. The city ________ I was born is beautiful. (where/when)
+6. The person ________ car is red. (whose/which)
+7. The movie ________ we saw won an award. (that/who)
+8. The day ________ we met was special. (when/where)
+9. The company ________ I work for is growing. (which/whom)
+10. All ________ glitters is not gold. (that/which)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ОТВЕТЫ К ЧАСТИ 1:
+
+1. who (для людей)
+2. that (ограничительное придаточное)
+3. who (неограничительное, для людей)
+4. why (причина)
+5. where (место)
+6. whose (притяжательное)
+7. that (универсальное)
+8. when (время)
+9. which (для вещей, с предлогом)
+10. that (обязательно с all)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ЧАСТЬ 2: Определите тип придаточного (ограничительное/неограничительное)
+
+1. The book that I bought yesterday is good.
+2. My brother, who is a doctor, lives here.
+3. The person whom I met was friendly.
+4. The city where I live is noisy.
+5. The reason why he came is important.
+6. The students who study hard will pass.
+7. London, which is the capital, is expensive.
+8. The day when we arrived was sunny.
+9. The man whose dog barks is my neighbor.
+10. The movie that won the Oscar is great.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ОТВЕТЫ К ЧАСТИ 2:
+
+1. Ограничительное (определяет конкретную книгу)
+2. Неограничительное (дополнительная информация)
+3. Ограничительное (определяет конкретного человека)
+4. Ограничительное (определяет конкретный город)
+5. Ограничительное (определяет конкретную причину)
+6. Ограничительное (определяет конкретных студентов)
+7. Неограничительное (дополнительная информация)
+8. Ограничительное (определяет конкретный день)
+9. Ограничительное (определяет конкретного человека)
+10. Ограничительное (определяет конкретный фильм)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ЧАСТЬ 3: Исправьте ошибки в предложениях
+
+1. The woman, that I met yesterday, is nice.
+2. The book which I read it was boring.
+3. That's the reason because he left.
+4. The company, whose it is famous for cars.
+5. I know the man which works here.
+6. This is the place that we met at.
+7. The person whom he spoke is tall.
+8. The day when he arrived which was rainy.
+9. All the people who came were happy.
+10. He apologized, that surprised me.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ОТВЕТЫ К ЧАСТИ 3:
+
+1. The woman, whom I met yesterday, is nice. (whom для дополнения в неограничительном)
+2. The book which I read was boring. (не повторять объект)
+3. That's the reason why he left. (why вместо because)
+4. The company, which is famous for cars. (which для вещей)
+5. I know the man who works here. (who для людей)
+6. This is the place where we met. (where для места)
+7. The person whom he spoke to is tall. (предлог в конце)
+8. The rainy day when he arrived. (перестроить предложение)
+9. All the people that came were happy. (that предпочтительно с all)
+10. He apologized, which surprised me. (which для предложений)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ЧАСТЬ 4: Переведите на английский
+
+1. Человек, который позвонил, ждёт снаружи.
+2. Книга, которую я прочитал, была интересной.
+3. Мой брат, который врач, живёт в Лондоне.
+4. Город, где я родился, красивый.
+5. Причина, почему он ушёл, неизвестна.
+6. Фильм, который мы посмотрели, получил награду.
+7. Студенты, которые учатся усердно, сдадут экзамен.
+8. Компания, для которой я работаю, растёт.
+9. День, когда мы встретились, был особенным.
+10. Человек, чью машину я видел, - мой сосед.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ОТВЕТЫ К ЧАСТИ 4:
+
+1. The person who called is waiting outside.
+2. The book that I read was interesting.
+3. My brother, who is a doctor, lives in London.
+4. The city where I was born is beautiful.
+5. The reason why he left is unknown.
+6. The movie that we saw won an award.
+7. The students who study hard will pass the exam.
+8. The company for which I work is growing.
+9. The day when we met was special.
+10. The person whose car I saw is my neighbor.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ЧАСТЬ 5: Создайте предложения с разными типами
+
+1. Напишите ограничительное придаточное с who
+2. Напишите неограничительное придаточное с which
+3. Напишите предложение с whose
+4. Напишите предложение с where
+5. Напишите предложение с that для all
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ОТВЕТЫ К ЧАСТИ 5: (примеры)
+
+1. The teacher who explained the lesson is patient.
+2. The report, which was finished yesterday, is ready.
+3. The student whose notebook I found is in class 5B.
+4. The restaurant where we ate dinner was excellent.
+5. All that I have is yours.
