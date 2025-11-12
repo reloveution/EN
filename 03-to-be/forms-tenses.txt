@@ -1,5 +1,11 @@
 ФОРМЫ ПО ВРЕМЕНАМ: УТВЕРЖДЕНИЯ • ОТРИЦАНИЯ • ВОПРОСЫ
 
+⛑️ В настоящем времени после am/is/are нельзя ставить глагол в начальной форме.  
+    ✗ he is drive  
+    ✔ He drives. / He is driving.
+    ✗ managers are work
+    ✔ Managers work. / Managers are working.
+
 ✅ УТВЕРЖДЕНИЯ
 
 • Прошедшее (Past Simple):
@@ -12,19 +18,46 @@
     – He/She/It is → She’s ready.
 
 • Будущее (Future Simple):
-Формы глагола to be в будущем -  подлежащее + will + be + ... 
+    Формы глагола to be в будущем -  подлежащее + will + be + ... 
     – (I/You/He/She/It/We/They) will be → I will be ready. / She will be there soon.
         • Кратко: I’ll be, you’ll be, he’ll be…
 
-        Это как намерение, очен используют в речи.
+        Очень часто используют как намерение в речи:
+    "be" going to be + прилагательное/существительное
+        – (I) am going to be → I am going to be careful.
+        – (You/We/They) are going to be → They are going to be late.
+        – (He/She/It) is going to be → She is going to be busy.
+    "be" going to + глагол
+        - I'm going to eat - Я собираюсь(иду, как пойду делать уроки, как намерение) покушать.
+        – She is going to call you later. — Она собирается позвонить позже.
+        – We are going to visit Paris next month. — Мы собираемся посетить Париж в следующем месяце.
+        – They are going to start a new project. — Они собираются начать новый проект.
+        – Are you going to stay for dinner? — Ты собираешься остаться на ужин?
     
-    тут прилагательные, поэтому to be
-    – (I) am going to be → I am going to be careful.
-    – (You/We/They) are going to be → They are going to be late.
-    – (He/She/It) is going to be → She is going to be busy.
-    а тут пример с глаголом и поэтому to не используем
-    - I'm going to eat - Я собираюсь(иду, как пойду делать уроки, как намерение) покушать.
-    
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+✅ ВОПРОСЫ (ИНВЕРСИЯ: форма be + подлежащее)
+
+• Прошедшее:
+    – Was I/he/she/it…? → Was it cold?
+    – Were you/we/they…? → Were they surprised? Были ли они удивлены?
+    – When/Where was…? → When were you born?
+
+
+• Настоящее:
+    – Am I…? → Am I late? Я поздно? Am I too late? Я слишком поздно?
+    – Are you/we/they…? → Are you ready?
+    – Is he/she/it…? → Is she your sister?
+    – Wh- + be + subject → Where are we?
+
+
+• Будущее:
+
+    - Will I be? - Will I be tired?
+    – Are you going to be…? → Are you going to be on time? - В вопросах с be going to инверсия делает порядок: Are + subject + going to + be...
+    – Will he/she/it be…? → Will she be there? Вместо be можно подставить любой глагол, например go.
+    – What will the result be? Какой результат будет?/ When will it be finished?
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -34,10 +67,6 @@
     – I/He/She/It was not → wasn’t → I was not tired. / She wasn’t home.
     – You/We/They were not → weren’t → You were not here. / They weren’t prepared.(констатация факта - они были не подготовлены)
 
-
-Это относится к настоящему
-⛑️ The combination "to be" + verb does not exist in its base form. You cannot say "he is drive" or "managers are work."
-Hi is driving. Managers are working. Так правильно. Разобраться
 • Настоящее:
     – I am not → I’m not tired.
     – You/We/They are not → You aren’t / you’re not here.
@@ -48,38 +77,14 @@ Hi is driving. Managers are working. Так правильно. Разобрат
         will not → won’t |  I won't go to the theatre
         want как хотеть | I want to go to the theatre
 
-    А тут форма зависит от подлежащего!
+    Как образуется отрицание в конструкции be going to (в будущем с оттенком «собираться / планировать»)? То есть мы вписываем нужную форму to be (am / are / is) перед not going to be, а дальше добавляем прилагательное или существительное (late, busy, и т.д.).
+    Форма am/is/are зависит от подлежащего:
     – not going(как намерение) to be:
         • (I) am not going to be → I’m not going to be late.
         • (You/We/They) are not going to be → We aren’t going to be late.
         • (He/She/It) is not going to be → She isn’t going to be late.
-        
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
-✅ ВОПРОСЫ (инверсия: форма be + подлежащее)
-
-• Прошедшее:
-    – Was I/he/she/it…? → Was it cold?
-    – Were you/we/they…? → Were they surprised? Были ли они удивлены?
-  
-    Wh-words ставятся в начале перед to be, и в отрицаниях и в утверждениях тоже.
-    – When/Where was…? → When were you born?
-
-
-
-• Настоящее:
-    – Am I…? → Am I late? Я поздно? Am I too late? Я слишком поздно?
-        Am I tired?
-    – Are you/we/they…? → Are you ready?
-    – Is he/she/it…? → Is she your sister?
-    – Wh- + be + subject → Where are we?
-
-
-
-• Будущее:
-
-    – Are you going to be…? → Are you going to be on time? - тут из-за to be(только между ними ставится подлежащее, потому что инверсия в вопросе) going to.
-    - Will I be? - Will I be tired?
-    – Will he/she/it be…? → Will she be there? Вместо be можно подставить любой глагол, например go.
-    – What will the result be? Какой результат будет?/ When will it be finished?
+    Если после going to стоит глагол, то be уже не нужен: используем схему am/is/are + not + going to + V. Например:
+        - I’m not going to eat. — «Я не собираюсь есть.»
+        - She isn’t going to call. — «Она не собирается звонить.»
+        - They aren’t going to leave. — «Они не собираются уходить.»

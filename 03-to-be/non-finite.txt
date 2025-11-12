@@ -1,26 +1,20 @@
-✅ Неличные формы (не зависят от лица и числа)
-    1. be — инфинитив (to + be / ) - это когда глагол переводится, озвучивается как любой другой глагол
+NON-FINITE FORMS OF “TO BE”  
+(неличные формы, не зависят от лица и числа)
 
-    ⚠️ Без to после модальных глаголов can/must/may
-            
-        Примеры:
-        ● I want to be a doctor. (Я хочу быть врачом.)
-        ● You must be careful. (Ты должен быть осторожен.)
-        ● She can be very kind. (Она может быть очень доброй.)
-        ● They are going to be late. (Планируют опоздать.)
-        ● The meeting is to be held tomorrow. (Предстоит состояться.)
+    1. be — инфинитив - это когда глагол переводится, озвучивается как любой другой глагол
+        (to + be / без to после модальных can, must, may)
+            – I want to be a doctor. (Я хочу быть врачом.)
+            – You must be careful. (Ты должен быть осторожен.)
+            – She can be very kind. (Она может быть очень доброй.)
+            – They are going to be late. (Они собираются опоздать.)
+            – The meeting is to be held tomorrow. (Встреча должна состояться завтра.)
 
-    2. being — форма на -ing (герундий / причастие)
-        Работает как существительное (герундий) или как причастие для описания состояния/процесса.
-            Примеры:
-        ● Герундий: Being late is impolite. (Опаздывать невежливо.)
-        ● После предлога: He apologized for being rude. (Он извинился за грубость.)
-        ● Present Continuous: He is being stupid today. (Сегодня он тупит.) Но можно сказать Hi is stupid today.(Сегодня он тупой). Есть разница, но по смыслу почти нет.
-
-
-        ● Passive  Continuous(значит что нет подлежащего, значит что нет того кто решает эту проблему, и нам не важно кто это делает, нам самое главное что проблема решается): The problem is being solved. (Проблему решают.)
+    2. being — форма на -ing (герундий / причастие) Работает как существительное (герундий) или как причастие для описания состояния/процесса.
+        - Герундий: Being late is impolite. (Опаздывать невежливо.)
+        - После предлога: He apologized for being rude. (Он извинился за грубость.)
+        - Present Continuous: He is being stupid today. (Сегодня он тупит.) Но можно сказать Hi is stupid today.(Сегодня он тупой). Есть разница, но по смыслу почти нет.
+        - Passive  Continuous(значит что нет того кто решает эту проблему, и нам не важно кто это делает, нам самое главное что проблема решается): The problem is being solved. (Проблему решают.)
         Подлежащее + to be/ is/ am /are + being + глагол в третьей форме или с окончанием ed в прошедшем времени.
-
 
         ● Часто в сочетаниях:
             Being honest is important. (Быть честным очень важно)
@@ -29,10 +23,15 @@
             Being tired. Быть уставшим
             Being tired is not good for your health. Быть уставшим не очень полезно для твоего здоровья.
 
+    3. been — причастие прошедшего времени (Participle II)
+        – Perfect: I have been tired lately. (Последнее время я уставал.)
+        – Present Perfect Continuous: We have been waiting for an hour. (Мы ждём уже час.)
+        – Past Perfect: They had been warned. (Их предупредили.)
+        – Passive: The book has been written. (Книга написана.)
+        – Она была учителем 10 лет → She has been a teacher for ten years.
 
 
     
-
 Примеры в контексте:
 – To be or not to be, that is the question. (Быть или не быть — вот в чём вопрос.)
 – Being confident helps you succeed. (Уверенность помогает добиться успеха.)

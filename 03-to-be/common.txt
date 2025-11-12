@@ -1,0 +1,55 @@
+TO BE
+
+⚠️ Нестандартно изменяется по лицу, числу, времени и форме.
+    - по лицу: I am, you are, he/she/it is;
+    - по числу: множественное — всегда are, но в прошедшем уже were;
+    - по времени: в прошедшем was/were, в будущем will be, плюс конструкции be going to, be about to;
+    - по форме: есть особые неличные формы be, being, been, и они ведут себя иначе, чем обычные глаголы.
+    
+    Остальные глаголы обычно меняются ровнее (work → works → worked), а to be приходится учить как набор отдельных форм и схем.
+
+⚠️  это разные слова!
+    there/their/they’re
+    it’s(it is)/its(его)
+
+Используется для описания состояний, характеристик, местоположения, принадлежности:
+    Состояние (state):
+        She is tired today. — Она устала сегодня.
+        They were hungry after work. — Они были голодны после работы.
+
+    Характеристика (description/quality):
+        The sky is blue. — Небо голубое.
+        He is very patient. — Он очень терпеливый.
+
+    Местоположение (location):
+        The keys are on the table. — Ключи на столе.
+        We were at home last night. — Мы были дома прошлым вечером.
+
+    Принадлежность / идентификация (identity/possession):
+        This is my car. — Это моя машина.
+        That house was theirs. — Тот дом был их.
+
+    Экзистенциальное there (существование предметов/явлений):
+        There is a book on the table. — На столе лежит книга.
+        There were many people at the party. — На вечеринке было много людей.
+
+Функции глагола:
+    Глагол связка(linking verb), самостоятельный глагол «быть», «есть», «находиться» :
+        – She is smart. (прилагательное)
+        – He is a doctor. (существительное)
+        – This is my car. (местоимение)
+        – The keys are on the table. (обстоятельство места)
+        – The party is tomorrow. (обстоятельство времени)
+
+    Вспомогательный - без него не собрать Continuous и Passive.
+        • Continuous(продолженные) — прогрессивные формы времени, где действие в процессе.
+            be + V-ing
+                – am/is/are + V-ing → She is working.
+                – was/were + V-ing → They were waiting.
+                – will be + V-ing → I will be traveling.
+
+        • Passive voice — пассивный залог, не подлежащее совершает действие, а действие совершается над ним. Акцент на самом действии или на объекте, над которым оно совершается. Например, не «письмо отправилось», а «письмо было отправлено».
+            be + V3
+                – am/is/are + V3 → The cake is made.
+                – was/were + V3 → The letter was sent.
+                – will be + V3 → The report will be finished.
