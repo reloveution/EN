@@ -1,0 +1,412 @@
+-----------EXCERSIZE---------
+
+
+PAST SIMPLE
+Обычное завершённое действие в прошлом (когда — известно или неважно). Регулярные действия в прошлом.
+
+st act
+S + V2/Had + O. <|> S + Was/Were + Adj/Place.
+        Учитель объяснил правило.
+        
+        
+st pas
+O + Was/Were + V3 + (by)S.
+        Правило было объяснено учителем.
+        
+        
+qt act
+Did + S + V1 + O? <|> Had + S + O? <|> Was/Were + S + Adj/Place?
+        Учитель объяснил правило?
+        
+        
+qt pas
+Was/Were + O + V3 + (by)S?
+        Правило было объяснено учителем?
+        
+
+        
+ng act
+S + Did Not + V + O. <|> S + Had Not + O. <|>  S + Was/Were Not + Adj/Place.
+        Учитель не объяснил правило.
+        
+        
+ng pas
+O + Was/Were Not + V3 + (by)S.
+        Правило не было объяснено учителем.
+        
+
+        
+
+PAST CONTINUOUS
+Длительное действие в прошлом (в процессе в какой-то момент). Часто — фон для другого действия или незавершённость.
+
+st act
+S + Was/Were + V-ing + O.
+        Учитель объяснял правило.
+        
+        
+st pas
+O + Was/Were + being + V3 + (by)S.
+        Правило объяснялось учителем.
+        
+        
+qt act
+Was/Were + S + V-ing + O?
+        Учитель объяснял правило?
+        
+        
+qt pas
+Was/Were + O + being + V3 + (by)S?
+        Правило объяснялось учителем?
+        
+        
+ng act
+S + Was/Were Not + V-ing + O.
+        Учитель не объяснял правило.
+        
+        
+ng pas
+O + Was/Were Not + being + V3 + (by)S.
+        Правило не объяснялось учителем.
+        
+        
+
+
+PAST PERFECT
+Действие завершилось до другого действия или момента в прошлом («предпрошедшее»).
+
+st act
+S + Had + V3 + O. <|> S + Had been + Adj/Place.
+        Учитель (уже) объяснил правило к тому моменту.
+
+        
+st pas
+O + Had been + V3 + (by)S.
+        Правило было объяснено учителем к тому моменту.
+
+        
+qt act
+Had + S + V3 + O? <|> Had + S + been + Adj/Place?
+        Учитель объяснил правило к тому моменту?
+
+        
+qt pas
+Had + O + been + V3 + (by)S?
+        Правило было объяснено учителем к тому моменту?
+
+        
+ng act
+S + Had Not + V3 + O. <|> S + Had Not been + Adj/Place.
+        Учитель не объяснил правило к тому моменту.
+
+        
+ng pas
+O + Had Not been + V3 + (by)S.
+        Правило не было объяснено учителем к тому моменту.
+
+        
+
+
+PAST PERFECT CONTINUOUS
+Длительное действие в прошлом до другого момента/действия (подчёркивается длительность).
+
+st act
+S + Had been + V-ing + O.
+        Учитель объяснял правило (непрерывно) до того момента.
+
+        
+st pas
+—
+
+        
+qt act
+Had + S + been + V-ing + O?
+        Учитель объяснял правило до того момента?
+
+        
+qt pas
+—
+
+        
+ng act
+S + Had Not been + V-ing + O.
+        Учитель не объяснял правило так долго к тому моменту.
+
+        
+ng pas
+—
+
+        
+
+
+PRESENT SIMPLE
+Регулярность, факты, расписание, привычки. Общеизвестные истины.
+
+st act
+S + V/V-s + O. <|> S + Have/Has + O. <|> S + Am/Is/Are + Adj/Place.
+        Учитель объясняет правило каждый урок.
+
+        
+st pas
+O + Am/Is/Are + V3 + (by)S.
+        Правило объясняется учителем каждый урок.
+
+        
+qt act
+Do/Does + S + V + O? <|> Have/Has + S + O? <|> Am/Is/Are + S + Adj/Place?
+        Учитель объясняет правило каждый урок?
+
+        
+qt pas
+Am/Is/Are + O + V3 + (by)S?
+        Правило объясняется учителем каждый урок?
+
+        
+ng act
+S + Do/Does Not + V + O. <|> S + Have/Has Not + O. <|> S + Am/Is/Are Not + Adj/Place.
+        Учитель не объясняет правило каждый урок.
+
+        
+ng pas
+O + Am/Is/Are Not + V3 + (by)S.
+        Правило не объясняется учителем каждый урок.
+
+        
+
+
+PRESENT CONTINUOUS
+Действие происходит сейчас (в момент речи) или временная ситуация «вокруг» настоящего.
+
+st act
+S + Am/Is/Are + V-ing + O.
+        Учитель объясняет правило сейчас.
+
+        
+st pas
+O + Am/Is/Are + being + V3 + (by)S.
+        Правило объясняется учителем сейчас.
+
+        
+qt act
+Am/Is/Are + S + V-ing + O?
+        Учитель объясняет правило сейчас?
+
+        
+qt pas
+Am/Is/Are + O + being + V3 + (by)S?
+        Правило объясняется учителем сейчас?
+
+        
+ng act
+S + Am/Is/Are Not + V-ing + O.
+        Учитель не объясняет правило сейчас.
+
+        
+ng pas
+O + Am/Is/Are Not + being + V3 + (by)S.
+        Правило не объясняется учителем сейчас.
+
+        
+
+
+PRESENT PERFECT
+Связь прошлого с настоящим: результат, опыт, недавнее действие. Часто с yet, already, just, ever, never.
+
+st act
+S + Have/Has + V3 + O. <|> S + Have/Has been + Adj/Place.
+        Учитель (уже) объяснил правило на сегодняшний день.
+
+        
+st pas
+O + Have/Has been + V3 + (by)S.
+        Правило объяснено учителем к сегодняшнему дню.
+
+        
+qt act
+Have/Has + S + V3 + O? <|> Have/Has + S + been + Adj/Place?
+        Учитель объяснил правило на сегодняшний день?
+
+        
+qt pas
+Have/Has + O + been + V3 + (by)S?
+        Правило объяснено учителем к сегодняшнему дню?
+
+        
+ng act
+S + Have/Has Not + V3 + O. <|> S + Have/Has Not been + Adj/Place.
+        Учитель не объяснил правило (ещё).
+
+        
+ng pas
+O + Have/Has Not been + V3 + (by)S.
+        Правило не объяснено учителем (ещё).
+
+        
+
+
+PRESENT PERFECT CONTINUOUS
+Длительное действие от прошлого до настоящего (подчёркивается процесс и длительность). Часто с for, since.
+
+st act
+S + Have/Has been + V-ing + O.
+        Учитель давно объясняет правила (и уже объяснил много).
+
+        
+st pas
+—
+
+        
+qt act
+Have/Has + S + been + V-ing + O?
+        Учитель объясняет правила уже давно?
+
+        
+qt pas
+—
+
+        
+ng act
+S + Have/Has Not been + V-ing + O.
+        Учитель не объясняет правила так долго.
+
+        
+ng pas
+—
+
+        
+
+
+FUTURE SIMPLE
+Действие в будущем (решение, предсказание, обещание). Will или going to (намерение, план).
+
+st act
+S + Will + V + O. <|> S + Will be + Adj/Place. <|> S + Am/Is/Are + going to + V + O. <|> S + Am/Is/Are + going to be + Adj/Place.
+        Учитель объяснит правило на следующем уроке. / Учитель собирается объяснить правило на следующем уроке.
+
+        
+st pas
+O + Will be + V3 + (by)S. <|> O + Am/Is/Are + going to be + V3 + (by)S.
+        Правило будет объяснено учителем на следующем уроке. / Правило собираются объяснить на следующем уроке.
+
+        
+qt act
+Will + S + V + O? <|> Will + S + be + Adj/Place? <|> Am/Is/Are + S + going to + V + O? <|> Am/Is/Are + S + going to be + Adj/Place?
+        Учитель объяснит правило на следующем уроке? / Учитель собирается объяснить правило?
+
+        
+qt pas
+Will + O + be + V3 + (by)S? <|> Am/Is/Are + O + going to be + V3 + (by)S?
+        Правило будет объяснено учителем на следующем уроке? / Правило собираются объяснить?
+
+        
+ng act
+S + Will Not + V + O. <|> S + Will Not be + Adj/Place. <|> S + Am/Is/Are Not + going to + V + O. <|> S + Am/Is/Are Not + going to be + Adj/Place.
+        Учитель не объяснит правило на следующем уроке. / Учитель не собирается объяснять правило.
+
+        
+ng pas
+O + Will Not be + V3 + (by)S. <|> O + Am/Is/Are Not + going to be + V3 + (by)S.
+        Правило не будет объяснено учителем на следующем уроке. / Правило не собираются объяснять.
+
+        
+
+
+FUTURE CONTINUOUS
+Длительное действие в определённый момент в будущем («в это время в следующем году»).
+
+st act
+S + Will be + V-ing + O.
+        В это время на следующем уроке учитель будет объяснять правило.
+
+        
+st pas
+O + Will be + being + V3 + (by)S.
+        В это время на следующем уроке правило будет объясняться учителем.
+
+        
+qt act
+Will + S + be + V-ing + O?
+        Учитель будет объяснять правило в это время на следующем уроке?
+
+        
+qt pas
+Will + O + be + being + V3 + (by)S?
+        Правило будет объясняться учителем в это время?
+
+        
+ng act
+S + Will Not be + V-ing + O.
+        Учитель не будет объяснять правило в это время.
+
+        
+ng pas
+O + Will Not be + being + V3 + (by)S.
+        Правило не будет объясняться учителем в это время.
+
+        
+
+
+FUTURE PERFECT
+Действие завершится к определённому моменту в будущем («к концу года уже сделает»).
+
+st act
+S + Will have + V3 + O. <|> S + Will have been + Adj/Place.
+        К концу урока учитель (уже) объяснит правило.
+
+        
+st pas
+O + Will have been + V3 + (by)S.
+        К концу урока правило будет объяснено (учителем).
+
+        
+qt act
+Will + S + have + V3 + O? <|> Will + S + have been + Adj/Place?
+        Учитель объяснит правило к концу урока?
+
+        
+qt pas
+Will + O + have been + V3 + (by)S?
+        Правило будет объяснено к концу урока?
+
+        
+ng act
+S + Will Not have + V3 + O. <|> S + Will Not have been + Adj/Place.
+        Учитель не объяснит правило к концу урока.
+
+        
+ng pas
+O + Will Not have been + V3 + (by)S.
+        К концу урока правило не будет объяснено.
+
+        
+
+
+FUTURE PERFECT CONTINUOUS
+Длительное действие до момента в будущем (подчёркивается длительность: «уже год к июню»).
+
+st act
+S + Will have been + V-ing + O.
+        К июню учитель будет объяснять правила уже год.
+
+        
+st pas
+—
+
+        
+qt act
+Will + S + have been + V-ing + O?
+        Учитель будет объяснять правила уже год к июню?
+
+        
+qt pas
+—
+
+        
+ng act
+S + Will Not have been + V-ing + O.
+        Учитель не будет объяснять правила так долго к июню.
+
+        
+ng pas
+—
+

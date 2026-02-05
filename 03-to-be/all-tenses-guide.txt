@@ -1,0 +1,113 @@
+ПОЛНАЯ ТАБЛИЦА ВСЕХ ВРЕМЕН АНГЛИЙСКОГО ЯЗЫКА
+С описаниями использования и примерами
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+АКТИВНЫЙ ЗАЛОГ (ACTIVE VOICE)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+PROSTЫЕ ВРЕМЕНА (SIMPLE TENSES)
+
+| Конструкция | Когда используется | Пример |
+|------------|-------------------|--------|
+| **Present Simple**<br/>V / V-s | Постоянные действия, привычки, факты, расписание | I work every day. / She speaks English. / The sun rises in the east. |
+| **Past Simple**<br/>V2 / V-ed | Завершённое действие в прошлом в указанное время | I worked yesterday. / She went to London last year. / They met in 2020. |
+| **Future Simple**<br/>will + V | Спонтанные решения, обещания, предсказания | I'll help you. / It will rain tomorrow. / She will call you. |
+| **Future (Going to)**<br/>am/is/are + going to + V | Планы, намерения, предсказания на основе фактов | I'm going to study. / Look! It's going to rain! / We're going to visit Paris. |
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ПРОДОЛЖЕННЫЕ ВРЕМЕНА (CONTINUOUS / PROGRESSIVE TENSES)
+
+| Конструкция | Когда используется | Пример |
+|------------|-------------------|--------|
+| **Present Continuous**<br/>am/is/are + V-ing | Действие происходит сейчас, в данный момент | I am working now. / She is reading a book. / They are playing outside. |
+| **Past Continuous**<br/>was/were + V-ing | Действие длилось в определённый момент в прошлом, фон для другого действия | I was working at 5 PM. / While I was reading, he came in. / They were watching TV. |
+| **Future Continuous**<br/>will be + V-ing | Действие будет происходить в определённый момент в будущем | I will be working at 5 PM. / She will be waiting for you. / They will be sleeping. |
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ЗАВЕРШЁННЫЕ ВРЕМЕНА (PERFECT TENSES)
+
+| Конструкция | Когда используется | Пример |
+|------------|-------------------|--------|
+| **Present Perfect**<br/>have/has + V3 | Действие завершено, результат важен сейчас. Опыт в жизни. С "уже", "ещё", "только что" | I have finished my work. / She has never been to Paris. / They have just arrived. |
+| **Past Perfect**<br/>had + V3 | Действие завершилось ДО другого действия в прошлом (предпрошедшее) | I had finished before he arrived. / They had left when I came. / She had seen the movie before. |
+| **Future Perfect**<br/>will have + V3 | Действие завершится ДО определённого момента в будущем | I will have finished by 5 PM. / She will have arrived by then. / They will have left by Monday. |
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ЗАВЕРШЁННО-ПРОДОЛЖЕННЫЕ ВРЕМЕНА (PERFECT CONTINUOUS TENSES)
+
+| Конструкция | Когда используется | Пример |
+|------------|-------------------|--------|
+| **Present Perfect Continuous**<br/>have/has been + V-ing | Действие началось в прошлом и продолжается до сих пор. Подчёркивает длительность | I have been working for 3 hours. / She has been studying all day. / They have been waiting since morning. |
+| **Past Perfect Continuous**<br/>had been + V-ing | Действие длилось до другого момента в прошлом. Подчёркивает длительность | I had been working for 2 hours when he called. / They had been waiting before I arrived. / She had been living there for 5 years. |
+| **Future Perfect Continuous**<br/>will have been + V-ing | Действие будет длиться до определённого момента в будущем. Подчёркивает длительность | I will have been working for 5 hours by 6 PM. / She will have been studying for 3 years by next month. |
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ПАССИВНЫЙ ЗАЛОГ (PASSIVE VOICE)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+PROSTЫЕ ВРЕМЕНА PASSIVE (SIMPLE PASSIVE)
+
+| Конструкция | Когда используется | Пример |
+|------------|-------------------|--------|
+| **Present Simple Passive**<br/>am/is/are + V3 | Действие совершается над объектом (настоящее). Акцент на результате, а не на деятеле | The letter is sent every day. / English is spoken here. / The car is repaired. |
+| **Past Simple Passive**<br/>was/were + V3 | Действие совершалось над объектом в прошлом. Акцент на результате | The letter was sent yesterday. / The house was built in 1990. / They were invited to the party. |
+| **Future Simple Passive**<br/>will be + V3 | Действие будет совершено над объектом в будущем | The letter will be sent tomorrow. / The report will be finished by Friday. / They will be informed. |
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ПРОДОЛЖЕННЫЕ ВРЕМЕНА PASSIVE (CONTINUOUS PASSIVE)
+
+| Конструкция | Когда используется | Пример |
+|------------|-------------------|--------|
+| **Present Continuous Passive**<br/>am/is/are being + V3 | Действие совершается над объектом СЕЙЧАС, в процессе | The letter is being sent now. / The house is being built. / The problem is being solved. |
+| **Past Continuous Passive**<br/>was/were being + V3 | Действие совершалось над объектом в определённый момент в прошлом | The letter was being sent when I called. / The building was being constructed last year. / The report was being written. |
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ЗАВЕРШЁННЫЕ ВРЕМЕНА PASSIVE (PERFECT PASSIVE)
+
+| Конструкция | Когда используется | Пример |
+|------------|-------------------|--------|
+| **Present Perfect Passive**<br/>have/has been + V3 | Действие завершено, результат важен сейчас. Акцент на завершённом результате | The letter has been sent. / The house has been built. / The work has been done. |
+| **Past Perfect Passive**<br/>had been + V3 | Действие было завершено ДО другого действия в прошлом | The letter had been sent before I arrived. / The report had been finished when they called. / The work had been done by then. |
+| **Future Perfect Passive**<br/>will have been + V3 | Действие будет завершено ДО момента в будущем | The letter will have been sent by 5 PM. / The house will have been built by next year. / The report will have been finished by Monday. |
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+📝 КРАТКАЯ СХЕМА ВЫБОРА ВРЕМЕНИ:
+
+1. ПРОСТОЕ (Simple) → факт, действие как таковое
+   - Present: обычные действия, факты
+   - Past: что было в прошлом
+   - Future: что будет (will / going to)
+
+2. ПРОДОЛЖЕННОЕ (Continuous) → действие в процессе
+   - Present: происходит сейчас
+   - Past: происходило тогда
+   - Future: будет происходить тогда
+
+3. ЗАВЕРШЁННОЕ (Perfect) → результат, завершённость
+   - Present: результат сейчас (have/has)
+   - Past: завершилось до другого момента (had)
+   - Future: завершится до момента (will have)
+
+4. ЗАВЕРШЁННО-ПРОДОЛЖЕННОЕ (Perfect Continuous) → длительность
+   - Present: длится уже сколько времени
+   - Past: длилось до момента
+   - Future: будет длиться до момента
+
+5. ПАССИВ (Passive) → действие над объектом
+   - Используется, когда важно "что сделали", а не "кто сделал"
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ИТОГО: 20 основных временных форм
+- 12 активных + 8 пассивных
+

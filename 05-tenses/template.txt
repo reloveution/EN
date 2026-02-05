@@ -1,0 +1,364 @@
+-----------EXCERSIZE---------
+
+
+PAST SIMPLE
+st act  
+        
+st pas  
+        
+qt act  
+        Did the company produce many cars?
+qt pas  
+        
+ng act  
+        
+ng pas  
+        
+
+
+PAST CONTINUOUS
+st act  
+        
+st pas  
+        
+qt act  
+        
+qt pas  
+        
+ng act  
+        
+ng pas  
+        
+
+
+PAST PERFECT
+st act  
+        
+st pas  
+        
+qt act  
+        
+qt pas  
+        
+ng act  
+        
+ng pas  
+        
+
+
+PAST PERFECT CONTINUOUS
+st act  
+        
+st pas  —
+        -
+qt act  
+        
+qt pas  —
+        -
+ng act  
+        
+ng pas  —
+        -
+
+
+PRESENT SIMPLE
+st act  
+        
+st pas  
+        
+qt act  
+        
+qt pas  
+        
+ng act  
+        
+ng pas  
+        
+
+
+PRESENT CONTINUOUS
+st act  
+        
+st pas  
+        
+qt act  
+        
+qt pas  
+        
+ng act  
+        
+ng pas  
+        
+
+
+PRESENT PERFECT
+st act  
+        
+st pas  
+        
+qt act  
+        
+qt pas  
+        
+ng act  
+        
+ng pas  
+        
+
+
+PRESENT PERFECT CONTINUOUS
+st act  
+        
+st pas  —
+        -
+qt act  
+        
+qt pas  —
+        -
+ng act  
+        
+ng pas  —
+        -
+
+
+FUTURE SIMPLE
+st act  
+        
+st pas  
+        
+qt act  
+        
+qt pas  
+        
+ng act  
+        
+ng pas  
+        
+
+
+FUTURE CONTINUOUS
+st act  
+        
+st pas  
+        
+qt act  
+        
+qt pas  
+        
+ng act  
+        
+ng pas  
+        
+
+
+FUTURE PERFECT
+st act  
+        
+st pas  
+        
+qt act  
+        
+qt pas  
+        
+ng act  
+        
+ng pas  
+        
+
+
+FUTURE PERFECT CONTINUOUS
+st act  
+        
+st pas  —
+        -
+qt act  
+        
+qt pas  —
+        -
+ng act  
+        
+ng pas  —
+        -
+
+
+-----------COMPLETE----------
+
+
+PAST SIMPLE
+st act  Компания произвела много машин.
+        The company produced many cars.
+st pas  Много машин было произведено компанией.
+        Many cars were produced by the company.
+qt act  Компания произвела много машин?
+        Did the company produce many cars?
+qt pas  Много машин произведено компанией?
+        Were many cars produced by the company?
+ng act  Компания не произвела много машин.
+        The company did not produce many cars.
+ng pas  Много машин не было произведено компанией.
+        Many cars were not produced by the company.
+
+
+PAST CONTINUOUS
+st act  Компания производила много машин до кризиса (когда кризис начался).
+        The company was producing many cars before the crisis (when the crisis started).
+st pas  Много машин производилось компанией до кризиса (когда кризис начался).
+        Many cars were being produced by the company before the crisis (when the crisis started).
+qt act  Производила ли компания много машин, когда кризис начался?
+        Was the company producing many cars when the crisis started?
+qt pas  Производилось ли много машин компанией до кризиса?
+        Were many cars being produced by the company before the crisis?
+ng act  Компания не производила много машин в тот момент.
+        The company was not producing many cars at that moment.
+ng pas  Много машин не производилось компанией в тот момент.
+        Many cars were not being produced by the company at that moment.
+
+
+PAST PERFECT
+st act  Компания (уже) произвела много машин к началу кризиса.
+        The company had (already) produced many cars by the start of the crisis.
+st pas  Много машин было произведено компанией к началу кризиса.
+        Many cars had been produced by the company by the start of the crisis.
+qt act  Произвела ли компания много машин к началу кризиса?
+        Had the company produced many cars by the start of the crisis?
+qt pas  Было ли произведено много машин компанией к началу кризиса?
+        Had many cars been produced by the company by the start of the crisis?
+ng act  Компания не произвела много машин к началу кризиса.
+        The company had not produced many cars by the start of the crisis.
+ng pas  Много машин не было произведено компанией к началу кризиса.
+        Many cars had not been produced by the company by the start of the crisis.
+
+
+PAST PERFECT CONTINUOUS
+st act  Компания производила много машин (непрерывно), пока не начался кризис.
+        The company had been producing many cars (continuously) until the crisis started.
+st pas  —
+        -
+qt act  Производила ли компания много машин до кризиса?
+        Had the company been producing many cars before the crisis?
+qt pas  —
+        -
+ng act  Компания не производила много машин так долго.
+        The company had not been producing many cars for that long.
+ng pas  —
+        -
+
+
+PRESENT SIMPLE
+st act  Компания производит много машин каждый год.
+        The company produces many cars every year.
+st pas  Много машин производится компанией каждый год.
+        Many cars are produced by the company every year.
+qt act  Производит ли компания много машин каждый год?
+        Does the company produce many cars every year?
+qt pas  Производится ли много машин компанией каждый год?
+        Are many cars produced by the company every year?
+ng act  Компания не производит много машин каждый год.
+        The company does not produce many cars every year.
+ng pas  Много машин не производится компанией каждый год.
+        Many cars are not produced by the company every year.
+
+
+PRESENT CONTINUOUS
+st act  Компания производит много машин сейчас.
+        The company is producing many cars now.
+st pas  Много машин производится компанией сейчас.
+        Many cars are being produced by the company now.
+qt act  Производит ли компания много машин сейчас?
+        Is the company producing many cars now?
+qt pas  Производится ли много машин компанией сейчас?
+        Are many cars being produced by the company now?
+ng act  Компания не производит много машин сейчас.
+        The company is not producing many cars now.
+ng pas  Много машин не производится компанией сейчас.
+        Many cars are not being produced by the company now.
+
+
+PRESENT PERFECT
+st act  Компания произвела много машин на сегодняшний день.
+        The company has produced many cars to date.
+st pas  Много машин произведено компанией к сегодняшнему дню.
+        Many cars have been produced by the company to date.
+qt act  Произвела ли компания много машин на сегодняшний день?
+        Has the company produced many cars to date?
+qt pas  Было ли произведено много машин компанией к сегодняшнему дню?
+        Have many cars been produced by the company to date?
+ng act  Компания не произвела много машин (ещё).
+        The company has not produced many cars (yet).
+ng pas  Много машин не произведено компанией (ещё).
+        Many cars have not been produced by the company (yet).
+
+
+PRESENT PERFECT CONTINUOUS
+st act  Компания давно производит и уже произвела много машин.
+        The company has been producing (and has already produced) many cars for a long time.
+st pas  —
+        -
+qt act  Производит ли компания много машин уже давно?
+        Has the company been producing many cars for a long time?
+qt pas  —
+        -
+ng act  Компания не производит много машин так долго.
+        The company has not been producing many cars for that long.
+ng pas  —
+        -
+
+
+FUTURE SIMPLE
+st act  Компания произведёт много машин в следующем году.
+        The company will produce many cars next year.
+st pas  Много машин будет произведено компанией в следующем году.
+        Many cars will be produced by the company next year.
+qt act  Произведёт ли компания много машин в следующем году?
+        Will the company produce many cars next year?
+qt pas  Будет ли произведено много машин компанией в следующем году?
+        Will many cars be produced by the company next year?
+ng act  Компания не произведёт много машин в следующем году.
+        The company will not produce many cars next year.
+ng pas  Много машин не будет произведено компанией в следующем году.
+        Many cars will not be produced by the company next year.
+
+
+FUTURE CONTINUOUS
+st act  В это время в следующем году компания будет производить новые модели.
+        At this time next year the company will be producing new models.
+st pas  В это время в следующем году новые модели будут производиться компанией.
+        At this time next year new models will be being produced by the company.
+qt act  Будет ли компания производить новые модели в это время в следующем году?
+        Will the company be producing new models at this time next year?
+qt pas  Будут ли новые модели производиться компанией в это время?
+        Will new models be being produced by the company at this time?
+ng act  Компания не будет производить новые модели в это время.
+        The company will not be producing new models at this time.
+ng pas  Новые модели не будут производиться компанией в это время.
+        New models will not be being produced by the company at this time.
+
+
+FUTURE PERFECT
+st act  К концу года компания произведёт (уже) 100 000 машин.
+        By the end of the year the company will have produced 100,000 cars.
+st pas  К концу года будет произведено 100 000 машин (компанией).
+        By the end of the year 100,000 cars will have been produced (by the company).
+qt act  Произведёт ли компания 100 000 машин к концу года?
+        Will the company have produced 100,000 cars by the end of the year?
+qt pas  Будет ли произведено 100 000 машин к концу года?
+        Will 100,000 cars have been produced by the end of the year?
+ng act  Компания не произведёт 100 000 машин к концу года.
+        The company will not have produced 100,000 cars by the end of the year.
+ng pas  К концу года не будет произведено 100 000 машин.
+        By the end of the year 100,000 cars will not have been produced.
+
+
+FUTURE PERFECT CONTINUOUS
+st act  К июлю компания будет производить машины уже два года.
+        By July the company will have been producing cars for two years.
+st pas  —
+        -
+qt act  Будет ли компания производить машины уже два года к июлю?
+        Will the company have been producing cars for two years by July?
+qt pas  —
+        -
+ng act  Компания не будет производить машины так долго к июлю.
+        The company will not have been producing cars for that long by July.
+ng pas  —
+        -

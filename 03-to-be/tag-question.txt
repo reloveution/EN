@@ -1,0 +1,186 @@
+TAG QUESTIONS (Разделительные вопросы)
+
+⚠️ Основная идея: короткий вопрос в конце утверждения или отрицания для подтверждения, уточнения или выражения удивления.
+
+СТРУКТУРА:
+    Утверждение → отрицательный tag
+        You are happy, aren't you? — Ты счастлив, не так ли?
+        She is working, isn't she? — Она работает, не так ли?
+    
+    Отрицание → утвердительный tag
+        You aren't tired, are you? — Ты не устал, правда?
+        She isn't here, is she? — Её здесь нет, да?
+
+
+ПРАВИЛА ПОСТРОЕНИЯ:
+
+1. Согласование по лицу, числу и времени:
+    • Основное предложение определяет форму tag
+        – I am late, aren't I? (не *amn't I* — такой формы нет)
+        – You are ready, aren't you?
+        – He/She/It is here, isn't he/she/it?
+        – We/They are friends, aren't we/they?
+        – I/He/She/It was there, wasn't I/he/she/it?
+        – We/They were busy, weren't we/they?
+
+2. С вспомогательными глаголами:
+    • Если в предложении есть вспомогательный глагол (be, have, do, will, can, must и т.д.), он повторяется в tag
+        – You have finished, haven't you? — Ты закончил, не так ли?
+        – She can swim, can't she? — Она умеет плавать, не так ли?
+        – They will come, won't they? — Они придут, не так ли?
+        – He must leave, mustn't he? — Он должен уйти, не так ли?
+
+3. С обычными глаголами (без вспомогательных):
+    • В Present Simple и Past Simple используем do/does/did
+        – You like coffee, don't you? — Тебе нравится кофе, не так ли?
+        – She works here, doesn't she? — Она здесь работает, не так ли?
+        – They went home, didn't they? — Они пошли домой, не так ли?
+
+4. Особые случаи с to be:
+    • I am → aren't I (единственный случай, когда am не используется в tag)
+        – I am right, aren't I? — Я прав, не так ли?
+        – I am not wrong, am I? — Я не ошибаюсь, правда?
+    
+    • Остальные формы to be ведут себя стандартно
+        – You are tired, aren't you?
+        – He is smart, isn't he?
+        – We were late, weren't we?
+
+5. Активный и пассивный залог:
+    ⚠️ Tag question всегда согласуется с залогом основного предложения
+    
+    • Активный залог (Active Voice):
+        – She writes letters, doesn't she? — Она пишет письма, не так ли?
+        – They built the house, didn't they? — Они построили дом, не так ли?
+        – He is reading a book, isn't he? — Он читает книгу, не так ли?
+        – We were waiting for you, weren't we? — Мы ждали тебя, не так ли?
+    
+    • Пассивный залог (Passive Voice):
+        – The letter is written, isn't it? — Письмо написано, не так ли?
+        – The house was built, wasn't it? — Дом был построен, не так ли?
+        – The book is being read, isn't it? — Книга читается, не так ли?
+        – You were being watched, weren't you? — За тобой следили, не так ли?
+    
+    • Смешанные случаи (модальные + пассив):
+        – The work must be done, mustn't it? — Работа должна быть сделана, не так ли?
+        – The door can be opened, can't it? — Дверь можно открыть, не так ли?
+        – The problem should be solved, shouldn't it? — Проблему нужно решить, не так ли?
+    
+    • Отрицание в пассивном залоге:
+        – The letter isn't written, is it? — Письмо не написано, правда?
+        – The house wasn't built, was it? — Дом не был построен, правда?
+        – The work hasn't been done, has it? — Работа не была сделана, правда?
+
+
+ОСОБЫЕ СЛУЧАИ:
+
+1. Императивы (повелительное наклонение):
+    • Положительный императив → will you / would you / can you
+        – Open the window, will you? — Открой окно, хорошо?
+        – Be quiet, would you? — Будь тише, хорошо?
+        – Help me, can you? — Помоги мне, можешь?
+    
+    • Отрицательный императив → will you
+        – Don't be late, will you? — Не опаздывай, хорошо?
+
+2. Let's (предложения сделать что-то вместе):
+    • Let's → shall we
+        – Let's go, shall we? — Пойдём, хорошо?
+        – Let's not argue, shall we? — Давайте не спорить, хорошо?
+
+3. Let me / Let him / Let her (разрешение):
+    • Let me/him/her → will you / may I
+        – Let me help, will you? — Позволь помочь, хорошо?
+        – Let him go, will you? — Позволь ему уйти, хорошо?
+
+4. There is / There are:
+    • Tag согласуется с подлежащим после there
+        – There is a problem, isn't there? — Есть проблема, не так ли?
+        – There are many books, aren't there? — Много книг, не так ли?
+        – There was a mistake, wasn't there? — Была ошибка, не так ли?
+
+5. Nothing, nobody, no one, never (отрицательные слова):
+    • Считаются отрицанием → утвердительный tag
+        – Nothing is wrong, is it? — Ничего не так, правда?
+        – Nobody came, did they? — Никто не пришёл, правда?
+        – He never calls, does he? — Он никогда не звонит, правда?
+        – No one knows, do they? — Никто не знает, правда?
+
+6. Everybody, everyone, somebody, someone:
+    • Используем they в tag (формально можно he/she, но they предпочтительнее)
+        – Everyone is ready, aren't they? — Все готовы, не так ли?
+        – Someone called, didn't they? — Кто-то звонил, не так ли?
+
+7. This / That:
+    • This/That → it в tag
+        – This is yours, isn't it? — Это твоё, не так ли?
+        – That was easy, wasn't it? — Это было легко, не так ли?
+
+8. Модальные глаголы:
+    • Must (должен) → mustn't (запрет) или needn't (не нужно)
+        – You must go, mustn't you? — Ты должен идти, не так ли?
+        – You mustn't smoke, must you? — Тебе нельзя курить, правда?
+    
+    • Must (вероятно) → isn't / aren't / doesn't / didn't
+        – He must be tired, isn't he? — Он, наверное, устал, не так ли?
+        – She must have left, didn't she? — Она, наверное, ушла, не так ли?
+
+9. Used to:
+    • Used to → didn't / usedn't (формально)
+        – You used to live here, didn't you? — Ты раньше здесь жил, не так ли?
+        – He used to smoke, didn't he? — Он раньше курил, не так ли?
+
+10. Have got / Has got:
+    • Have got → haven't / hasn't
+        – You've got a car, haven't you? — У тебя есть машина, не так ли?
+        – He's got time, hasn't he? — У него есть время, не так ли?
+
+11. Have (как основной глагол — иметь):
+    • В британском английском → haven't / hasn't
+        – You have a pen, haven't you? (BrE) — У тебя есть ручка, не так ли?
+    
+    • В американском английском → don't / doesn't
+        – You have a pen, don't you? (AmE) — У тебя есть ручка, не так ли?
+
+
+ИНТОНАЦИЯ:
+
+1. Нисходящая интонация (falling):
+    • Когда мы уверены в ответе и просто хотим подтверждения
+        – It's a beautiful day, isn't it? ⬇️ — Прекрасный день, не так ли?
+        – You're coming, aren't you? ⬇️ — Ты идёшь, не так ли?
+
+2. Восходящая интонация (rising):
+    • Когда мы не уверены и действительно спрашиваем
+        – You're not angry, are you? ⬆️ — Ты не сердишься, правда?
+        – This is the right way, isn't it? ⬆️ — Это правильный путь, не так ли?
+
+
+ИСПОЛЬЗОВАНИЕ:
+
+1. Для подтверждения информации:
+    – You're from London, aren't you? — Ты из Лондона, не так ли?
+    – She works here, doesn't she? — Она здесь работает, не так ли?
+
+2. Для выражения удивления:
+    – You're not leaving already, are you? — Ты уже не уходишь, правда?
+    – He passed the exam, didn't he? — Он сдал экзамен, не так ли?
+
+3. Для вежливой просьбы или предложения:
+    – You could help me, couldn't you? — Ты мог бы помочь, не так ли?
+    – We should start now, shouldn't we? — Нам стоит начать сейчас, не так ли?
+
+4. В разговорной речи для поддержания беседы:
+    – Nice weather, isn't it? — Хорошая погода, не так ли?
+    – It's cold today, isn't it? — Сегодня холодно, не так ли?
+
+
+ТИПИЧНЫЕ ОШИБКИ:
+
+❌ I am right, amn't I? → ✅ I am right, aren't I?
+❌ You are tired, are you? → ✅ You are tired, aren't you?
+❌ She doesn't like it, doesn't she? → ✅ She doesn't like it, does she?
+❌ Let's go, don't we? → ✅ Let's go, shall we?
+❌ Nothing is wrong, isn't it? → ✅ Nothing is wrong, is it?
+❌ Everyone is here, isn't he? → ✅ Everyone is here, aren't they?
+
