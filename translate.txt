@@ -1,0 +1,64 @@
+GRAMMAR: twelve tenses × active & passive**
+Complete each sentence with the correct form of the verb in brackets.
+
+**Twelve tense groups** (each in **active** and **passive** where English forms exist):
+Present Simple · Past Simple · Future Simple · Present Continuous · Past Continuous · Future Continuous · Present Perfect · Past Perfect · Future Perfect · Present Perfect Continuous · Past Perfect Continuous · Future Perfect Continuous
+
+Passive **perfect continuous** is rare in speech; a few slots are **exam-style** but grammatical.
+
+Лексика: простые частые слова — упор на **формы**; см. `.cursor/rules/english-exercise-generation.mdc` (п. 1d).
+
+Проверка своих ответов: правило `.cursor/rules/english-exercise-check-review.mdc`; скилл `english-exercise-check`.
+
+**48 заданий** — по **два** на каждую пару «одно из 12 времён + актив или пассив». Всё **вперемешку** — определи сам(а), что нужно.
+
+1.  The window has been broken — can you see the glass on the floor?
+2.  My sister works in a bank from Monday to Friday.
+3.  I have been studying (study) for the test since this morning and I am tired.
+4.  Listen — the children are playing in the garden again.
+5.  Dinner is being cooked(cook) at the moment — it will be ready soon.
+6.  We will not be (not be) late if we leave now.
+7.  The TV was being fixed(fix) when the technician came in.
+
+
+8.  The dog had been for a long time before someone opened the door.
+9.  I (not feel)do not feel well today, so I am staying home.
+10.  By August the road near the school will have been closed for six months.
+11.  She has never tried (never try) sushi before.
+12.  He didn't answer my message yesterday evening.
+13.  The rubbish (take) out every Tuesday morning.
+14.  The letter (write) before I arrived at the desk.
+15.  All our milk (use) — we need to buy more.
+16.  By Sunday every room in the hotel (book).
+17.  This time next week I (stay) with my aunt in the country.
+18.  He (drive) for six hours before he stopped for coffee.
+19.  By May, I (live) in this flat for three years.
+20.  They (wait) for a taxi for half an hour.
+21.  By eight tonight I (do) all the washing.
+22.  The house next door (renovate) since March — that is why it is noisy.
+23.  She (not hear) the news before she left the office.
+24.  What (you watch) when the power went out?
+25.  By midnight the nurses (work) without a break for twelve hours.
+26.  The road outside (repair) right now — use the side street.
+27.  Before the holidays, she (save) enough money for the trip.
+28.  By the end of the day, you (sit) at that desk for ten hours.
+29.  It (snow) all day — the roads are white.
+30.  At noon on Saturday the hall (use) for a school concert.
+31.  The new windows (install) next week.
+32.  The old photo (find) in a box in the attic.
+33.  At ten last night I (still do) my homework.
+34.  At three tomorrow the kids (have) a music lesson.
+35.  Your order (send) within three days — the site says so.
+36.  By next month the kitchen (paint) — the workers promised.
+37.  I (just finish) my lunch — I can help you now.
+38.  The bus to the city (leave) at half past seven.
+39.  The cake (burn) because I forgot about the oven.
+40.  She was angry because we (talk) about her for an hour.
+41.  Last summer we (spend) two weeks at the sea.
+42.  The wall (paint) for two days before the rain ruined it.
+43.  I (call) you after the meeting tomorrow.
+44.  By the time the police came, the thief (escape).
+45.  When I got home, my brother (already eat) everything.
+46.  Do not call at seven — we (eat) then.
+47.  While I (walk) home, it started to rain.
+48.  English (speak) in many countries around the world.

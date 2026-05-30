@@ -1,0 +1,110 @@
+PAST PERFECT — 20 заданий
+Действие уже завершилось до другого действия или момента в прошлом («предпрошедшее»).
+
+
+1 st act
+S + Had + V3 + O. <|> S + Had been + Adj/Place.
+    К тому времени она уже уехала в деревню.
+    She had gone to village by that time.
+    
+
+2 ng pas
+O + Had Not been + V3 + (by)S.
+    Письмо не было отправлено до конца дня.
+    The mail had not been sent until the end of the day.
+
+3 qt act
+Had + S + V3 + O? <|> Had + S + been + Adj/Place?
+    Ты уже закончил отчёт к пяти часам?
+    Had you finished the report by five p.m.?
+    
+
+4 st pas
+O + Had been + V3 + (by)S.
+    Комнату забронировали до нашего приезда.
+    The room had been reserved before our arrival.
+
+5 ng act
+S + Had Not + V3 + O. <|> S + Had Not been + Adj/Place.
+    Мы не видели этого фильма до вчерашнего вечера.
+    We had not seen this movie before yesterday evening.
+
+6 qt pas
+Had + O + been + V3 + (by)S?
+    Документы были подписаны к тому моменту?
+    Had the documents been signed by that moment?
+
+7 st act
+S + Had + V3 + O. <|> S + Had been + Adj/Place.
+    Мама уже приготовила ужин, когда мы вернулись.
+    Mom had already cooked the dinner, when we got back.
+
+8 qt act
+Had + S + V3 + O? <|> Had + S + been + Adj/Place?
+    Он успел позвонить до отъезда поезда?
+    Had he managed to call before the train departed.
+
+9 ng pas
+O + Had Not been + V3 + (by)S.
+    Окно не было закрыто до грозы.
+    The window had not been closed before the thunderstorm.
+
+10 st pas
+O + Had been + V3 + (by)S.
+    Заказ был выполнен к указанному сроку.
+    The order had been completed/finished by the deadline.
+
+11 ng act
+S + Had Not + V3 + O. <|> S + Had Not been + Adj/Place.
+    Дети ещё не ложились спать, когда пришёл папа.
+    The children had not gone to bed when dad came home.
+
+12 qt pas
+Had + O + been + V3 + (by)S?
+    Билеты были куплены до начала продаж?
+    Had the tickets been bought before the sales begin.
+
+13 st act
+S + Had + V3 + O. <|> S + Had been + Adj/Place.
+    К полудню я уже прочитал эту статью.
+    By the afternoon I had read this article.
+
+14 qt act
+Had + S + V3 + O? <|> Had + S + been + Adj/Place?
+    Ты был в Праге до прошлого года?
+    Had you been in Prague until the last year?
+
+15 ng pas
+O + Had Not been + V3 + (by)S.
+    Машина не была отремонтирована к выходным.
+    The vehicle had not been repaired by the weekend.
+    
+
+16 st pas
+O + Had been + V3 + (by)S.
+    К тому времени дом уже продали.
+    By that time the house had already been sold.
+    
+
+17 ng act
+S + Had Not + V3 + O. <|> S + Had Not been + Adj/Place.
+    Она ещё не сдала экзамен к июню.
+    She hadn't passed the exam by June yet.
+    She had still passed the exam by June.
+
+18 qt pas
+Had + O + been + V3 + (by)S?
+    Сообщение было доставлено до вечера?
+    Had the message been delivered by the evening?
+
+19 st act
+S + Had + V3 + O. <|> S + Had been + Adj/Place.
+    До прихода гостей мы убрали всю квартиру.
+    We had clean the flat before the guests arrived.
+
+20 ng act
+S + Had Not + V3 + O. <|> S + Had Not been + Adj/Place.
+    Он не слышал эту новость до вчера.
+    He had not heard this news until yeasterday.
+
+
